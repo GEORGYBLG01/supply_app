@@ -1,0 +1,1 @@
+{"mappings":"AAAA,wDAAwD;AACxD,OAAO,GAAG,GAAG;IACX,SAAS;AACX","sources":[".env.js"],"sourcesContent":["// Exposer les variables d'environnement à l'application\nwindow.env = {\n  API_URL: \"http://localhost:8000\"\n}; "],"names":[],"version":3,"file":"index.f70c016f.js.map","sourceRoot":"/__parcel_source_root/"}

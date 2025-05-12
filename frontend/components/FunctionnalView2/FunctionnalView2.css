@@ -1,0 +1,66 @@
+.functionnal-view-2 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  height: 900px;
+  width: 1530px;
+}
+
+.overlap-group1-34 {
+  height: 837px;
+  position: relative;
+  width: 1530px;
+}
+
+.overlap-group-51 {
+  height: 837px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1530px;
+}
+
+.rectangle-3-22 {
+  background-color: var(--rum-swizzle);
+  border-radius: 41px 0px 100px 118px;
+  height: 180px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1530px;
+}
+
+.x1200px-logo_icam_-_2008-1-50 {
+  cursor: pointer;
+  height: 74px;
+  left: 72px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 144px;
+}
+
+.please-answer-the-following-questions-20 {
+  height: 64px;
+  left: 477px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 171px;
+  width: 577px;
+}
+
+.flex-row-93 {
+  align-items: flex-end;
+  display: flex;
+  gap: 549px;
+  height: 48px;
+  margin-right: 66px;
+  min-width: 804px;
+  position: relative;
+}
+

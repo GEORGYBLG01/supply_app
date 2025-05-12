@@ -1,0 +1,42 @@
+.menu-item-default-23-1 {
+  align-items: center;
+  display: flex;
+  gap: 12.95px;
+  height: 26px;
+  position: relative;
+  width: fit-content;
+}
+
+.label-135 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.29px;
+  position: relative;
+  width: fit-content;
+}
+
+.menu-item-default-23-1.menu-item-default-24 {
+  height: unset;
+  justify-content: center;
+  left: 51px;
+  position: absolute;
+  top: 46px;
+}
+
+.menu-item-default-23-1.menu-item-default-25 {
+  height: unset;
+  left: 320px;
+  position: absolute;
+  top: 49px;
+}
+
+.menu-item-default-23-1.menu-item-default-26 {
+  align-items: center;
+  display: flex;
+  gap: 12.95px;
+  left: 34px;
+  position: absolute;
+  top: 50px;
+  width: 168px;
+}
+

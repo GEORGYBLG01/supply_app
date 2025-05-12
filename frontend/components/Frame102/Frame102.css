@@ -1,0 +1,116 @@
+.frame-102 {
+  align-items: flex-start;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  height: 594px;
+  justify-content: center;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 641px;
+}
+
+.dans-quel-rayon-se-situe-vos-clients {
+  background-color: transparent;
+  border: 0;
+  color: var(--inter);
+  font-weight: 400;
+  height: 21px;
+  line-height: normal;
+  min-width: 568px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+}
+
+.dans-quel-rayon-se-situe-vos-clients::placeholder,
+.quel::placeholder,
+.quel-est-votre-taux-de-retard::placeholder,
+.x-9::placeholder {
+  color: #9f9f9f99;
+}
+
+.quel {
+  background-color: transparent;
+  border: 0;
+  color: var(--inter);
+  font-weight: 400;
+  height: 21px;
+  line-height: normal;
+  min-width: 563px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+}
+
+.quel-est-votre-taux-de-retard {
+  background-color: transparent;
+  border: 0;
+  color: var(--inter);
+  font-weight: 400;
+  height: 21px;
+  line-height: normal;
+  min-width: 616px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+}
+
+.x-9 {
+  background-color: transparent;
+  border: 0;
+  color: var(--inter);
+  font-weight: 400;
+  height: 21.42px;
+  line-height: normal;
+  margin-right: -0.36px;
+  min-width: 641.36px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+}
+
+.frame-102.frame-98 {
+  left: 833px;
+  top: 237px;
+}
+
+.frame-102.frame-98-1 {
+  left: 811px;
+  top: 245px;
+}
+
+.frame-102.frame-100 {
+  left: 830px;
+  top: 257px;
+}
+
+.frame-102.frame-96 {
+  left: 742px;
+  top: 71px;
+}
+
+.frame-102.frame-98-2 {
+  left: unset;
+  position: relative;
+  top: unset;
+}
+
+.frame-102.frame-98-3 {
+  left: 742px;
+  top: 1px;
+}
+
+.frame-102.frame-96-1 {
+  left: 840px;
+  top: 241px;
+}
+
+.frame-102.frame-96-2 {
+  left: 835px;
+  top: 252px;
+}
+

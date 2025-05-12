@@ -1,0 +1,109 @@
+.frame-101 {
+  align-items: flex-start;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  height: 592px;
+  justify-content: center;
+  overflow: hidden;
+  position: relative;
+  width: 643px;
+}
+
+.a-quelle-frquence-re {
+  background-color: transparent;
+  border: 0;
+  color: var(--inter);
+  font-weight: 400;
+  height: 22px;
+  line-height: normal;
+  min-width: 568px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+}
+
+.a-quelle-frquence-re::placeholder,
+.combien-de-temps-en::placeholder,
+.vous::placeholder,
+.x::placeholder {
+  color: #9f9f9f99;
+}
+
+.combien-de-temps-en {
+  background-color: transparent;
+  border: 0;
+  color: var(--inter);
+  font-weight: 400;
+  height: 21px;
+  line-height: normal;
+  min-width: 563px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+}
+
+.vous {
+  background-color: transparent;
+  border: 0;
+  color: var(--inter);
+  font-weight: 400;
+  height: 22px;
+  line-height: normal;
+  min-width: 563px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+}
+
+.x {
+  background-color: transparent;
+  border: 0;
+  color: var(--inter);
+  font-weight: 400;
+  height: 21px;
+  line-height: normal;
+  min-width: 568px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+}
+
+.frame-101.frame-97 {
+  left: 91px;
+  position: absolute;
+  top: 236px;
+}
+
+.frame-101.frame-97-1 {
+  left: 69px;
+  position: absolute;
+  top: 244px;
+}
+
+.frame-101.frame-99 {
+  left: 88px;
+  position: absolute;
+  top: 256px;
+}
+
+.frame-101.frame-95-2 {
+  left: 0;
+  position: absolute;
+  top: 70px;
+}
+
+.frame-101.frame-97-2,
+.frame-101.frame-97-3 {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.frame-101.frame-95-3 {
+  left: 98px;
+  position: absolute;
+  top: 240px;
+}
+

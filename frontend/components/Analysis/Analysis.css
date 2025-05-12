@@ -1,0 +1,546 @@
+.analysis-88 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.overlap-group-13 {
+  height: 924px;
+  margin-left: -3px;
+  position: relative;
+  width: 1443px;
+}
+
+.rectangle-4 {
+  background-color: var(--rum-swizzle);
+  border-radius: 0px 0px 66px 59px;
+  height: 924px;
+  left: 3px;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.rectangle-2 {
+  background-color: var(--rum-swizzle);
+  border-radius: 41px 0px 100px 118px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 183px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.nav-items-2-17 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  gap: 60px;
+  height: 48px;
+  justify-content: center;
+  left: 545px;
+  position: absolute;
+  top: 112px;
+  transition: all 0.2s ease-in;
+  width: 844px;
+}
+
+.nav-items-2-17:hover {
+  transform: translate(0, -5px);
+}
+
+.frame-115-115 {
+  align-items: center;
+  background-color: var(--tropical-rain-forest);
+  border-radius: 6px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  justify-content: center;
+  padding: 15px;
+  position: relative;
+  transition: all 0.2s ease-in;
+  width: fit-content;
+}
+
+.frame-115-115:hover {
+  transform: scale(1.1);
+}
+
+.analysis-89 {
+  letter-spacing: 0.2px;
+  line-height: 18px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.label-98 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 25.9px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.x1200px-logo_icam_-_2008-1-13 {
+  cursor: pointer;
+  height: 74px;
+  left: 75px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 144px;
+}
+
+.frame-5-9 {
+  align-items: center;
+  background-color: var(--rum-swizzle);
+  border-radius: 6px;
+  box-shadow: 0px 4px 11px #1e454945;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  height: 10px;
+  justify-content: center;
+  left: 53px;
+  padding: 15px;
+  position: absolute;
+  top: 200px;
+  width: 78px;
+}
+
+.place-74 {
+  letter-spacing: 0.2px;
+  line-height: 18px;
+  margin-bottom: -8px;
+  margin-top: -10px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.formalismes-en-fonct {
+  color: var(--white);
+  font-family: var(--font-family-bevan);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  left: 350px;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  text-align: center;
+  top: 272px;
+  width: 812px;
+}
+
+.upload-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+  background: linear-gradient(145deg, rgba(255,255,255,0.1), rgba(255,255,255,0.05));
+  backdrop-filter: blur(10px);
+  padding: 25px 30px;
+  border-radius: 15px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  width: 80%;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.upload-section input[type="file"] {
+  background-color: rgba(255, 255, 255, 0.15);
+  border: 2px dashed rgba(255, 255, 255, 0.3);
+  border-radius: 10px;
+  padding: 15px;
+  width: 100%;
+  color: white;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin-bottom: 15px;
+}
+
+.upload-section input[type="file"]:hover,
+.upload-section input[type="file"]:focus {
+  background-color: rgba(255, 255, 255, 0.2);
+  border-color: rgba(255, 255, 255, 0.5);
+}
+
+.upload-status {
+  color: white;
+  font-size: 14px;
+  margin: 10px 0;
+  padding: 8px 15px;
+  background-color: rgba(30, 69, 73, 0.7);
+  border-radius: 5px;
+  border-left: 4px solid #1E4549;
+  font-weight: 500;
+}
+
+.bu {
+  background: linear-gradient(145deg, #1E4549, #0A2A2E);
+  color: white;
+  border: none;
+  padding: 15px 25px;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 10px;
+  margin: 10px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+  position: relative;
+  overflow: hidden;
+  outline: none;
+}
+
+.bu::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, rgba(255,255,255,0) 0%, rgba(255,255,255,0.2) 50%, rgba(255,255,255,0) 100%);
+  transition: all 0.6s ease;
+}
+
+.bu:hover::before {
+  left: 100%;
+}
+
+.bu:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 25px rgba(0, 0, 0, 0.25);
+  background: linear-gradient(145deg, #0A2A2E, #1E4549);
+}
+
+.bu:active {
+  transform: translateY(1px);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.bu:disabled {
+  background: #6c757d;
+  cursor: not-allowed;
+  transform: none;
+  box-shadow: none;
+}
+
+.body {
+  position: absolute;
+  top: 450px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 80%;
+  max-width: 1000px;
+  z-index: 2;
+}
+
+.result-groups {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 25px;
+  margin: 20px auto;
+}
+
+.result-box {
+  width: calc(50% - 25px);
+  min-width: 300px;
+  margin: 0;
+  padding: 25px;
+  border: none;
+  border-radius: 15px;
+  background: linear-gradient(145deg, rgba(255,255,255,0.95), rgba(240,245,245,0.95));
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  color: var(--tropical-rain-forest);
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+  backdrop-filter: blur(10px);
+  animation: fadeIn 0.6s ease-out forwards;
+}
+
+.result-box::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 6px;
+  height: 100%;
+  background: linear-gradient(180deg, #1E4549, #3498db);
+  border-radius: 3px 0 0 3px;
+}
+
+.result-box:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15);
+}
+
+.result-box h2 {
+  color: #1E4549;
+  font-size: 18px;
+  margin-bottom: 15px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid rgba(30, 69, 73, 0.1);
+  font-weight: 700;
+}
+
+.scrollable-container {
+  max-height: 300px;
+  overflow-y: auto;
+  padding-right: 10px;
+  position: relative;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(30, 69, 73, 0.5) rgba(255, 255, 255, 0.1);
+}
+
+.scrollable-container::-webkit-scrollbar {
+  width: 6px;
+}
+
+.scrollable-container::-webkit-scrollbar-track {
+  background: rgba(240, 245, 245, 0.3);
+  border-radius: 10px;
+}
+
+.scrollable-container::-webkit-scrollbar-thumb {
+  background-color: rgba(30, 69, 73, 0.5);
+  border-radius: 10px;
+}
+
+.result-item {
+  margin-bottom: 20px;
+  padding: 15px;
+  background-color: rgba(255, 255, 255, 0.6);
+  border-radius: 10px;
+  border-left: 3px solid #1E4549;
+  transition: all 0.3s ease;
+}
+
+.result-item:hover {
+  transform: translateX(5px);
+  background-color: rgba(255, 255, 255, 0.9);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+}
+
+.result-item p {
+  margin: 8px 0;
+  font-size: 15px;
+  line-height: 1.5;
+  color: #333;
+}
+
+.result-item p:first-child {
+  font-weight: 600;
+  color: #1E4549;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media print {
+  .nav-items-2-17,
+  .upload-section,
+  .bu {
+    display: none !important;
+  }
+  
+  .result-box {
+    box-shadow: none !important;
+    border: 1px solid #ddd;
+    break-inside: avoid;
+    page-break-inside: avoid;
+    width: 100%;
+    margin: 10px 0;
+  }
+  
+  .result-item {
+    border-left: 2px solid #1E4549;
+    background: none;
+  }
+  
+  .body {
+    position: static;
+    transform: none;
+    width: 100%;
+  }
+  
+  .scrollable-container {
+    max-height: none;
+    overflow: visible;
+  }
+}
+
+/* Styles complémentaires pour la page d'analyse */
+.upload-title {
+  color: white;
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.upload-description {
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 14px;
+  margin-bottom: 20px;
+  text-align: center;
+  line-height: 1.5;
+}
+
+.file-input {
+  position: relative;
+  z-index: 1;
+}
+
+.file-input::file-selector-button {
+  border: none;
+  background: rgba(30, 69, 73, 0.8);
+  padding: 8px 16px;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+  margin-right: 15px;
+  transition: all 0.3s ease;
+}
+
+.file-input::file-selector-button:hover {
+  background: rgba(30, 69, 73, 1);
+}
+
+.action-buttons {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  gap: 15px;
+  width: 100%;
+}
+
+.analysis-button {
+  background: linear-gradient(145deg, #1E4549, #0A2A2E);
+}
+
+.export-button {
+  background: linear-gradient(145deg, #3498db, #2980b9);
+}
+
+.loading-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 200px;
+  margin-top: 50px;
+}
+
+.loading-spinner {
+  width: 60px;
+  height: 60px;
+  border: 5px solid rgba(255, 255, 255, 0.2);
+  border-top: 5px solid white;
+  border-radius: 50%;
+  animation: spin 1.2s cubic-bezier(0.5, 0.1, 0.5, 0.9) infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.loading-text {
+  margin-top: 20px;
+  font-size: 18px;
+  color: white;
+  font-weight: 500;
+}
+
+.button-icon {
+  margin-right: 8px;
+  font-size: 18px;
+}
+
+/* Style pour lorsqu'aucune donnée n'est disponible */
+.no-data {
+  text-align: center;
+  padding: 40px 0;
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 18px;
+  font-style: italic;
+}
+
+/* Responsive design pour les résultats */
+@media (max-width: 992px) {
+  .result-box {
+    width: 100%;
+  }
+  
+  .upload-section {
+    width: 95%;
+  }
+  
+  .action-buttons {
+    flex-direction: column;
+  }
+  
+  .bu {
+    width: 100%;
+    margin: 5px 0;
+  }
+}
+
+/* Style pour le bouton de complétion du flux de navigation */
+.navigation-complete {
+  margin-top: 30px;
+  text-align: center;
+  padding: 20px;
+  border-top: 1px solid #eaeaea;
+}
+
+.complete-button {
+  text-decoration: none;
+}
+
+.complete-flow-button {
+  background-color: #4CAF50;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.complete-flow-button:hover {
+  background-color: #3e8e41;
+}
+
+.complete-message {
+  margin-top: 15px;
+  font-size: 16px;
+  color: #4CAF50;
+  font-weight: bold;
+}

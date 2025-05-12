@@ -1,0 +1,39 @@
+.frame-114-82,
+.frame-114-83,
+.frame-114-84,
+.frame-114-85 {
+  align-items: center;
+  border-radius: 6px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  height: 33px;
+  justify-content: center;
+  padding: 15px;
+  position: relative;
+  transition: all 0.2s ease-in;
+  width: fit-content;
+}
+
+.frame-114-82:hover,
+.frame-114-83:hover,
+.frame-114-84:hover,
+.frame-114-85:hover {
+  transform: scale(1.1);
+}
+
+.functional-view,
+.functional-view-1,
+.functional-view-2,
+.functional-view-3 {
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  margin-bottom: -6.50px;
+  margin-top: -8.50px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+

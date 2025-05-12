@@ -1,0 +1,90 @@
+.table-number-base-16,
+.table-number-base-17 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+  min-width: 271.9px;
+}
+
+.overlap-group1-16,
+.overlap-group1-17 {
+  height: 24px;
+  margin-top: 0;
+  position: relative;
+  width: 272px;
+}
+
+.field-14,
+.field-15 {
+  align-items: flex-start;
+  background-color: var(--white-2);
+  display: flex;
+  gap: 15px;
+  height: 24px;
+  left: 0;
+  padding: 7px 10px;
+  position: absolute;
+  top: 0;
+  width: 272px;
+}
+
+.type-8,
+.type-9 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 18.2px;
+  position: relative;
+  white-space: nowrap;
+  width: 105px;
+}
+
+.null-10,
+.null-11 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 18.2px;
+  position: relative;
+  white-space: nowrap;
+  width: 35px;
+}
+
+.line-container-14,
+.line-container-15 {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 272px;
+}
+
+.bottom-line-14,
+.bottom-line-15 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 272px;
+}
+
+.left-line-14,
+.left-line-15 {
+  height: 23px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.right-line-14,
+.right-line-15 {
+  height: 23px;
+  left: 271px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+

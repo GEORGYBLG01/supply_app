@@ -1,0 +1,677 @@
+.toggle-32 {
+  align-items: center;
+  background-color: var(--white-lilac);
+  border-radius: 40px;
+  cursor: pointer;
+  display: flex;
+  gap: 4px;
+  height: 39px;
+  justify-content: center;
+  margin-top: -3.50px;
+  padding: 4px 5px;
+  position: relative;
+  transition: all 0.2s ease-in-out;
+  width: 516px;
+}
+
+.toggle-32:hover,
+.toggle-32.toggle-7:hover,
+.toggle-32.toggle-8:hover,
+.toggle-32.toggle-9:hover,
+.toggle-32.toggle-10:hover,
+.toggle-32.toggle:hover,
+.toggle-32.toggle-1:hover,
+.toggle-32.toggle-28:hover,
+.toggle-32.toggle-2:hover,
+.toggle-32.toggle-3:hover,
+.toggle-32.toggle-11:hover,
+.toggle-32.toggle-12:hover,
+.toggle-32.toggle-13:hover,
+.toggle-32.toggle-14:hover,
+.toggle-32.toggle-15:hover,
+.toggle-32.toggle-29:hover,
+.toggle-32.toggle-16:hover,
+.toggle-32.toggle-17:hover,
+.toggle-32.toggle-18:hover,
+.toggle-32.toggle-31:hover,
+.toggle-32.toggle-19:hover,
+.toggle-32.toggle-20:hover,
+.toggle-32.toggle-21:hover,
+.toggle-32.toggle-22:hover,
+.toggle-32.toggle-23:hover,
+.toggle-32.toggle-24:hover,
+.toggle-32.toggle-25:hover,
+.toggle-32.toggle-26:hover,
+.toggle-32.toggle-4:hover,
+.toggle-32.toggle-5:hover,
+.toggle-32.toggle-6:hover,
+.toggle-32.toggle-30:hover,
+.toggle-32.toggle-27:hover {
+  transform: scale(1.1);
+}
+
+.toggle-32.toggle-33,
+.toggle-32.toggle,
+.toggle-32.toggle-1,
+.toggle-32.toggle-54,
+.toggle-32.toggle-2,
+.toggle-32.toggle-65,
+.toggle-32.toggle-3,
+.toggle-32.toggle-69,
+.toggle-32.toggle-73,
+.toggle-32.toggle-83,
+.toggle-32.toggle-106,
+.toggle-32.toggle-116,
+.toggle-32.toggle-4,
+.toggle-32.toggle-5,
+.toggle-32.toggle-6 {
+  margin-top: unset;
+}
+
+.toggle-32.x15 {
+  align-self: flex-end;
+  background-color: unset;
+  box-shadow: inset 0px 0px 2px #0000001a;
+  height: 37px;
+  margin-top: unset;
+  width: 110px;
+}
+
+.toggle-32.finish {
+  background-color: unset;
+  box-shadow: inset 0px 0px 2px #0000001a;
+  height: 37px;
+  margin-top: 4.0px;
+  width: 167px;
+}
+
+.toggle-32.toggle-7,
+.toggle-32.toggle-8,
+.toggle-32.toggle-9,
+.toggle-32.toggle-10,
+.toggle-32.toggle-11,
+.toggle-32.toggle-12,
+.toggle-32.toggle-13,
+.toggle-32.toggle-14,
+.toggle-32.toggle-15,
+.toggle-32.toggle-16,
+.toggle-32.toggle-17,
+.toggle-32.toggle-18,
+.toggle-32.toggle-94,
+.toggle-32.toggle-19,
+.toggle-32.toggle-20,
+.toggle-32.toggle-21,
+.toggle-32.toggle-22,
+.toggle-32.toggle-23,
+.toggle-32.toggle-24,
+.toggle-32.toggle-25,
+.toggle-32.toggle-26,
+.toggle-32.toggle-27 {
+  box-shadow: inset 0px 0px 2px #0000001a;
+  margin-top: unset;
+  width: 641px;
+}
+
+.toggle-32.toggle-34,
+.toggle-32.toggle-35,
+.toggle-32.toggle-36,
+.toggle-32.toggle-38,
+.toggle-32.toggle-41,
+.toggle-32.toggle-43,
+.toggle-32.toggle-47,
+.toggle-32.toggle-51,
+.toggle-32.toggle-59,
+.toggle-32.toggle-61,
+.toggle-32.toggle-67,
+.toggle-32.toggle-70,
+.toggle-32.toggle-74,
+.toggle-32.toggle-78,
+.toggle-32.toggle-85,
+.toggle-32.toggle-90,
+.toggle-32.toggle-107,
+.toggle-32.toggle-117,
+.toggle-32.toggle-127,
+.toggle-32.toggle-142,
+.toggle-32.toggle-146 {
+  align-self: flex-end;
+  background-color: unset;
+  box-shadow: inset 0px 0px 2px #0000001a;
+  height: 52px;
+  margin-top: unset;
+  width: 135px;
+}
+
+.toggle-32.toggle-37,
+.toggle-32.toggle-140,
+.toggle-32.toggle-147 {
+  background-color: unset;
+  box-shadow: inset 0px 0px 2px #0000001a;
+  height: 52px;
+  margin-top: unset;
+  width: 135px;
+}
+
+.toggle-32.toggle-39,
+.toggle-32.toggle-52,
+.toggle-32.toggle-68,
+.toggle-32.toggle-75,
+.toggle-32.toggle-82,
+.toggle-32.toggle-105,
+.toggle-32.toggle-115 {
+  margin-top: unset;
+  width: 411px;
+}
+
+.toggle-32.toggle-40 {
+  height: 38px;
+  margin-top: unset;
+  width: 383px;
+}
+
+.toggle-32.toggle-42,
+.toggle-32.toggle-122,
+.toggle-32.toggle-131,
+.toggle-32.toggle-135,
+.toggle-32.toggle-139 {
+  align-self: flex-end;
+  background-color: unset;
+  box-shadow: inset 0px 0px 2px #0000001a;
+  height: 40px;
+  margin-top: unset;
+  width: 100px;
+}
+
+.toggle-32.toggle-44 {
+  height: 40px;
+  margin-top: unset;
+  width: 349px;
+}
+
+.toggle-32.toggle-45 {
+  height: 38px;
+  margin-top: unset;
+  width: 490px;
+}
+
+.toggle-32.toggle-46 {
+  margin-top: unset;
+  width: 378px;
+}
+
+.toggle-32.toggle-48,
+.toggle-32.toggle-128 {
+  margin-left: 1.72px;
+  margin-top: unset;
+  width: 373px;
+}
+
+.toggle-32.toggle-49,
+.toggle-32.toggle-129 {
+  margin-top: unset;
+  width: 369.29px;
+}
+
+.toggle-32.toggle-50,
+.toggle-32.toggle-130 {
+  height: 39.71px;
+  margin-top: unset;
+  width: 422.96px;
+}
+
+.toggle-32.toggle-53,
+.toggle-32.toggle-72,
+.toggle-32.toggle-84,
+.toggle-32.toggle-144 {
+  height: 38px;
+  margin-top: unset;
+  width: 272px;
+}
+
+.toggle-32.toggle-55 {
+  align-self: flex-end;
+  background-color: unset;
+  box-shadow: inset 0px 0px 2px #0000001a;
+  height: 43px;
+  margin-top: unset;
+  width: 70px;
+}
+
+.toggle-32.toggle-56 {
+  margin-top: unset;
+  width: 325px;
+}
+
+.toggle-32.toggle-57 {
+  height: 38px;
+  margin-top: unset;
+  width: 331px;
+}
+
+.toggle-32.toggle-58 {
+  margin-top: unset;
+  width: 443px;
+}
+
+.toggle-32.toggle-28,
+.toggle-32.toggle-134,
+.toggle-32.toggle-138,
+.toggle-32.toggle-30 {
+  height: 39.71px;
+  margin-top: unset;
+  width: 386.97px;
+}
+
+.toggle-32.toggle-60,
+.toggle-32.toggle-141 {
+  height: 42px;
+  margin-top: unset;
+  width: 330px;
+}
+
+.toggle-32.x25,
+.toggle-32.toggle-64,
+.toggle-32.toggle-95,
+.toggle-32.toggle-121,
+.toggle-32.toggle-126 {
+  align-self: flex-end;
+  background-color: unset;
+  box-shadow: inset 0px 0px 2px #0000001a;
+  height: 37px;
+  margin-top: unset;
+  width: 183px;
+}
+
+.toggle-32.toggle-62 {
+  margin-left: 108px;
+  margin-top: unset;
+}
+
+.toggle-32.toggle-63 {
+  margin-left: 58px;
+  margin-top: unset;
+}
+
+.toggle-32.toggle-66 {
+  align-self: flex-end;
+  background-color: unset;
+  box-shadow: inset 0px 0px 2px #0000001a;
+  height: 49px;
+  margin-top: unset;
+  width: 133px;
+}
+
+.toggle-32.toggle-71 {
+  margin-left: -0.50px;
+  margin-right: -0.50px;
+  margin-top: unset;
+  width: 411px;
+}
+
+.toggle-32.toggle-76 {
+  height: 42px;
+  margin-top: unset;
+  width: 472px;
+}
+
+.toggle-32.toggle-77 {
+  height: 35px;
+  margin-top: unset;
+  width: 410px;
+}
+
+.toggle-32.toggle-79 {
+  box-shadow: inset 0px 0px 2px #0000001a;
+  height: 52px;
+  margin-top: unset;
+  width: 135px;
+}
+
+.toggle-32.toggle-80 {
+  box-shadow: inset 0px 0px 2px #0000001a;
+  height: 44px;
+  left: 636px;
+  margin-top: unset;
+  position: absolute;
+  top: 598px;
+  width: 91px;
+}
+
+.toggle-32.toggle-81 {
+  box-shadow: inset 0px 0px 2px #0000001a;
+  height: 43px;
+  left: 734px;
+  margin-top: unset;
+  position: absolute;
+  top: 835px;
+  width: 75px;
+}
+
+.toggle-32.toggle-86 {
+  align-self: flex-end;
+  box-shadow: inset 0px 0px 2px #0000001a;
+  height: 52px;
+  margin-top: unset;
+  width: 135px;
+}
+
+.toggle-32.toggle-87 {
+  box-shadow: inset 0px 0px 2px #0000001a;
+  height: 37px;
+  left: 669px;
+  margin-top: unset;
+  position: absolute;
+  top: 845px;
+  width: 107px;
+}
+
+.toggle-32.toggle-88 {
+  background-color: unset;
+  box-shadow: inset 0px 0px 2px #0000001a;
+  height: 37px;
+  left: 660px;
+  margin-top: unset;
+  position: absolute;
+  top: 841px;
+  width: 183px;
+}
+
+.toggle-32.toggle-89 {
+  box-shadow: inset 0px 0px 2px #0000001a;
+  height: 37px;
+  left: 648px;
+  margin-top: unset;
+  position: absolute;
+  top: 841px;
+  width: 183px;
+}
+
+.toggle-32.toggle-29,
+.toggle-32.toggle-133,
+.toggle-32.toggle-137 {
+  height: 40.49px;
+  margin-top: unset;
+  width: 369.29px;
+}
+
+.toggle-32.toggle-91 {
+  background-color: unset;
+  box-shadow: inset 0px 0px 2px #0000001a;
+  height: 37px;
+  left: 661px;
+  margin-top: unset;
+  position: absolute;
+  top: 834px;
+  width: 183px;
+}
+
+.toggle-32.toggle-92 {
+  background-color: unset;
+  box-shadow: inset 0px 0px 2px #0000001a;
+  height: 37px;
+  margin-top: unset;
+  width: 183px;
+}
+
+.toggle-32.toggle-93,
+.toggle-32.toggle-114 {
+  background-color: unset;
+  box-shadow: inset 0px 0px 2px #0000001a;
+  height: 37px;
+  left: 660px;
+  margin-top: unset;
+  position: absolute;
+  top: 853px;
+  width: 183px;
+}
+
+.toggle-32.toggle-96 {
+  height: 34px;
+  margin-top: unset;
+  width: 266px;
+}
+
+.toggle-32.toggle-97 {
+  background-color: unset;
+  box-shadow: inset 0px 0px 2px #0000001a;
+  height: 37px;
+  margin-left: 1.0px;
+  margin-top: unset;
+  width: 167px;
+}
+
+.toggle-32.toggle-31 {
+  box-shadow: inset 0px 0px 2px #0000001a;
+  height: 34px;
+  margin-top: unset;
+  width: 240px;
+}
+
+.toggle-32.toggle-98 {
+  box-shadow: inset 0px 0px 2px #0000001a;
+  height: 37px;
+  margin-left: 1.0px;
+  margin-top: unset;
+  width: 167px;
+}
+
+.toggle-32.toggle-99 {
+  box-shadow: inset 0px 0px 2px #0000001a;
+  height: 37px;
+  margin-left: 26.0px;
+  margin-top: unset;
+  width: 227px;
+}
+
+.toggle-32.toggle-100 {
+  box-shadow: inset 0px 0px 2px #0000001a;
+  height: 37px;
+  margin-top: unset;
+  width: 167px;
+}
+
+.toggle-32.toggle-101 {
+  box-shadow: inset 0px 0px 2px #0000001a;
+  height: 37px;
+  margin-left: 2px;
+  margin-top: unset;
+  width: 167px;
+}
+
+.toggle-32.toggle-102 {
+  box-shadow: inset 0px 0px 2px #0000001a;
+  height: 37px;
+  margin-right: 6.0px;
+  margin-top: unset;
+  width: 167px;
+}
+
+.toggle-32.toggle-103 {
+  box-shadow: inset 0px 0px 2px #0000001a;
+  height: 37px;
+  margin-left: 6.0px;
+  margin-top: unset;
+  width: 167px;
+}
+
+.toggle-32.toggle-104 {
+  box-shadow: inset 0px 0px 2px #0000001a;
+  height: 37px;
+  margin-right: 13.0px;
+  margin-top: unset;
+  width: 167px;
+}
+
+.toggle-32.toggle-108 {
+  background-color: unset;
+  box-shadow: inset 0px 0px 2px #0000001a;
+  height: 52px;
+  left: 686px;
+  margin-top: unset;
+  position: absolute;
+  top: 839px;
+  width: 135px;
+}
+
+.toggle-32.toggle-109 {
+  background-color: unset;
+  box-shadow: inset 0px 0px 2px #0000001a;
+  height: 37px;
+  left: 566px;
+  margin-top: unset;
+  position: absolute;
+  top: 665px;
+  width: 183px;
+}
+
+.toggle-32.toggle-110 {
+  background-color: unset;
+  box-shadow: inset 0px 0px 2px #0000001a;
+  height: 33px;
+  left: 625px;
+  margin-top: unset;
+  position: absolute;
+  top: 590px;
+  width: 92px;
+}
+
+.toggle-32.toggle-111 {
+  background-color: unset;
+  box-shadow: inset 0px 0px 2px #0000001a;
+  height: 37px;
+  left: 577px;
+  margin-top: unset;
+  position: absolute;
+  top: 583px;
+  width: 183px;
+}
+
+.toggle-32.toggle-112 {
+  background-color: unset;
+  box-shadow: inset 0px 0px 2px #0000001a;
+  height: 37px;
+  left: 665px;
+  margin-top: unset;
+  position: absolute;
+  top: 830px;
+  width: 183px;
+}
+
+.toggle-32.toggle-113 {
+  background-color: unset;
+  box-shadow: inset 0px 0px 2px #0000001a;
+  height: 37px;
+  left: 604px;
+  margin-top: unset;
+  position: absolute;
+  top: 665px;
+  width: 183px;
+}
+
+.toggle-32.toggle-118 {
+  background-color: unset;
+  box-shadow: inset 0px 0px 2px #0000001a;
+  height: 37px;
+  left: 656px;
+  margin-top: unset;
+  position: absolute;
+  top: 853px;
+  width: 183px;
+}
+
+.toggle-32.toggle-119 {
+  margin-left: 92px;
+  margin-top: unset;
+}
+
+.toggle-32.toggle-120 {
+  margin-left: 114px;
+  margin-top: unset;
+}
+
+.toggle-32.toggle-123 {
+  height: 39.16px;
+  margin-left: 74.4px;
+  margin-top: unset;
+  width: 372.87px;
+}
+
+.toggle-32.toggle-124 {
+  margin-left: 73.0px;
+  margin-top: 0;
+  width: 369.29px;
+}
+
+.toggle-32.toggle-125 {
+  height: 39.71px;
+  margin-left: 84.3px;
+  margin-top: unset;
+  width: 422.96px;
+}
+
+.toggle-32.toggle-132 {
+  height: 40px;
+  margin-left: 0.87px;
+  margin-top: unset;
+  width: 373px;
+}
+
+.toggle-32.toggle-136 {
+  margin-left: 0.87px;
+  margin-top: unset;
+  width: 373px;
+}
+
+.toggle-32.toggle-143 {
+  margin-top: unset;
+  width: 377px;
+}
+
+.toggle-32.toggle-145 {
+  margin-top: unset;
+  width: 472px;
+}
+
+.toggle-32.toggle-148 {
+  box-shadow: inset 0px 0px 2px #0000001a;
+  height: 36px;
+  margin-top: 4px;
+  width: 112px;
+}
+
+.toggle-32.toggle-149 {
+  background-color: unset;
+  box-shadow: inset 0px 0px 2px #0000001a;
+  height: 43px;
+  margin-top: unset;
+  width: 70px;
+}
+
+.toggle-32.toggle-150 {
+  align-self: flex-end;
+  box-shadow: inset 0px 0px 2px #0000001a;
+  height: 44px;
+  margin-top: unset;
+  width: 105px;
+}
+
+.toggle-32.toggle-151 {
+  background-color: unset;
+  box-shadow: inset 0px 0px 2px #0000001a;
+  height: 52px;
+  left: 702px;
+  margin-top: unset;
+  position: absolute;
+  top: 888px;
+  width: 135px;
+}
+
+.toggle-32.toggle-152 {
+  box-shadow: inset 0px 0px 2px #0000001a;
+  height: 37px;
+  left: 1242px;
+  margin-top: unset;
+  position: absolute;
+  top: 849px;
+  width: 181px;
+}
+

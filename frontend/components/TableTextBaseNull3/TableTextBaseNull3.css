@@ -1,0 +1,10 @@
+.table-text-base-null-6,
+.table-text-base-null-7 {
+  background-color: var(--graye);
+  display: flex;
+  height: 24px;
+  margin-left: 0;
+  position: relative;
+  width: 272px;
+}
+

@@ -1,0 +1,33 @@
+.frame-115-100 {
+  align-items: center;
+  border-radius: 6px;
+  box-shadow: 0px 4px 4px #00000040;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  justify-content: center;
+  padding: 15px;
+  position: relative;
+  transition: all 0.2s ease-in;
+  width: fit-content;
+}
+
+.frame-115-100:hover {
+  transform: scale(1.1);
+}
+
+.new-case-5 {
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame-115-100.frame-115-105 {
+  box-shadow: unset;
+}
+

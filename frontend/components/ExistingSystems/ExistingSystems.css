@@ -1,0 +1,165 @@
+.existing-systems-2 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 900px;
+  overflow: hidden;
+  width: 1530px;
+}
+
+.ellipse-116-2 {
+  align-self: flex-end;
+  height: 100px;
+  margin-right: -2821px;
+  margin-top: -583px;
+  width: 100px;
+}
+
+.overlap-group-56 {
+  align-items: flex-start;
+  background-color: var(--rum-swizzle);
+  border-radius: 41px 0px 100px 118px;
+  display: flex;
+  gap: 329px;
+  height: 180px;
+  justify-content: flex-end;
+  margin-top: 483px;
+  min-width: 1530px;
+  padding: 20px 59px;
+}
+
+.x1200px-logo_icam_-_2008-1-55 {
+  cursor: pointer;
+  height: 74px;
+  object-fit: cover;
+  width: 144px;
+}
+
+.nav-items-container-25 {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  margin-bottom: 2px;
+  min-height: 128px;
+  position: relative;
+  width: 926px;
+}
+
+.existing-systems {
+  height: 97px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 9.0px;
+  margin-top: 19px;
+  text-align: center;
+  width: 577px;
+}
+
+.y-models-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 161px;
+  margin-left: 23.0px;
+  min-width: 1315px;
+}
+
+.y-models {
+  height: 97px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  width: 577px;
+}
+
+.group-container {
+  align-items: center;
+  display: flex;
+  gap: 138px;
+  height: 248px;
+  margin-left: 68.0px;
+  margin-top: 42px;
+  min-width: 1344px;
+}
+
+.group-81 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 68px;
+  min-height: 248px;
+  position: relative;
+  width: 543px;
+}
+
+.flex-row-101 {
+  align-items: flex-start;
+  display: flex;
+  gap: 37px;
+  height: 143px;
+  min-width: 543px;
+}
+
+.toggle-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 72px;
+  min-height: 143px;
+  position: relative;
+  width: 266px;
+}
+
+.toggle-container-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 72px;
+  min-height: 143px;
+  position: relative;
+  width: 240px;
+}
+
+.group-82 {
+  align-items: flex-start;
+  display: flex;
+  height: 143px;
+  margin-top: 1.0px;
+  min-width: 663px;
+}
+
+.toggle-container-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 69px;
+  min-height: 143px;
+  position: relative;
+  width: 169px;
+}
+
+.toggle-container-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 69px;
+  margin-left: 44px;
+  min-height: 143px;
+  position: relative;
+  width: 173px;
+}
+
+.toggle-container-4 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 70px;
+  margin-left: 37px;
+  min-height: 141px;
+  position: relative;
+  width: 240px;
+}
+

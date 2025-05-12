@@ -1,0 +1,153 @@
+.lean-vsm-4-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 900px;
+  width: 1530px;
+}
+
+.overlap-group-76 {
+  height: 890px;
+  margin-left: 4px;
+  position: relative;
+  width: 1526px;
+}
+
+.rectangle-3-30 {
+  background-color: var(--rum-swizzle);
+  border-radius: 41px 0px 100px 118px;
+  height: 180px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1526px;
+}
+
+.x1200px-logo_icam_-_2008-1-76 {
+  cursor: pointer;
+  height: 74px;
+  left: 68px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 144px;
+}
+
+.please-answer-the-following-questions-30 {
+  height: 97px;
+  left: 473px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 168px;
+  width: 577px;
+}
+
+.frame-95-5 {
+  align-items: flex-start;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  height: 633px;
+  justify-content: center;
+  left: 94px;
+  overflow: hidden;
+  position: absolute;
+  top: 232px;
+  width: 643px;
+}
+
+.a-quelle-frquence-re-11 {
+  background-color: transparent;
+  border: 0;
+  color: var(--inter);
+  font-weight: 400;
+  height: 22px;
+  line-height: normal;
+  min-width: 568px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+}
+
+.a-quelle-frquence-re-11::placeholder,
+.combien-de-temps-en-11::placeholder,
+.vous-11::placeholder,
+.x-23::placeholder {
+  color: #9f9f9f99;
+}
+
+.combien-de-temps-en-11 {
+  background-color: transparent;
+  border: 0;
+  color: var(--inter);
+  font-weight: 400;
+  height: 21px;
+  line-height: normal;
+  min-width: 563px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+}
+
+.vous-11 {
+  background-color: transparent;
+  border: 0;
+  color: var(--inter);
+  font-weight: 400;
+  height: 22px;
+  line-height: normal;
+  min-width: 563px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+}
+
+.x-23 {
+  background-color: transparent;
+  border: 0;
+  color: var(--inter);
+  font-weight: 400;
+  height: 21px;
+  line-height: normal;
+  min-width: 568px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+}
+
+.frame-117-106 {
+  align-items: center;
+  background-color: var(--rum-swizzle);
+  border-radius: 40px;
+  box-shadow: 0px 4px 11px #1e454945;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  justify-content: center;
+  left: 1437px;
+  padding: 15px;
+  position: absolute;
+  top: 838px;
+  transition: all 0.2s ease-in;
+  width: fit-content;
+}
+
+.frame-117-106:hover {
+  transform: scale(1.1);
+}
+
+.x5-s-14 {
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+

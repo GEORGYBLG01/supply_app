@@ -1,0 +1,148 @@
+.lead-time-5 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 581px;
+  height: 900px;
+  overflow: hidden;
+  width: 1530px;
+}
+
+.overlap-group-92 {
+  height: 262px;
+  position: relative;
+  width: 1585px;
+}
+
+.rectangle-3-32 {
+  background-color: var(--rum-swizzle);
+  border-radius: 41px 0px 100px 118px;
+  height: 180px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1585px;
+}
+
+.x1200px-logo_icam_-_2008-1-89 {
+  cursor: pointer;
+  height: 74px;
+  left: 127px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 144px;
+}
+
+.please-answer-the-following-questions-32 {
+  height: 97px;
+  left: 538px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 165px;
+  width: 577px;
+}
+
+.frame-2-31 {
+  align-items: center;
+  display: flex;
+  height: 56px;
+  justify-content: flex-end;
+  left: 796px;
+  position: absolute;
+  top: 11px;
+  width: 727px;
+}
+
+.nav-items-5 {
+  align-items: center;
+  display: flex;
+  gap: 60px;
+  height: 44px;
+  margin-right: 0;
+  position: relative;
+  width: 718px;
+}
+
+.label-168 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 25.9px;
+  position: relative;
+  transition: all 0.2s ease-in;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.label-168:hover,
+.nav-items-6:hover {
+  transform: translate(0, -5px);
+}
+
+.frame-2-32 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 6px;
+  box-shadow: 0px 4px 11px #1e454945;
+  cursor: pointer;
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+  padding: 9px;
+  position: relative;
+  transition: all 0.2s ease-in;
+  width: fit-content;
+}
+
+.frame-2-32:hover {
+  transform: scale(1.1);
+}
+
+.nav-items-6 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  gap: 60px;
+  height: 48px;
+  justify-content: center;
+  left: 665px;
+  position: absolute;
+  top: 113px;
+  transition: all 0.2s ease-in;
+  width: 888px;
+}
+
+.frame-2-33 {
+  align-items: center;
+  border-radius: 6px;
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+  padding: 9px;
+  position: relative;
+  width: fit-content;
+}
+
+.label-169 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 25.9px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.toggle-container-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 602px;
+  height: 52px;
+  margin-right: 26px;
+  min-width: 849px;
+  position: relative;
+}
+

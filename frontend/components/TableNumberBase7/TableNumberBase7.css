@@ -1,0 +1,101 @@
+.table-number-base-14,
+.table-number-base-15 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+  min-width: 271.9px;
+}
+
+.overlap-group1-13,
+.overlap-group1-15 {
+  height: 24px;
+  margin-top: 0;
+  position: relative;
+  width: 272px;
+}
+
+.field-12,
+.field-13 {
+  align-items: flex-start;
+  background-color: var(--white-2);
+  display: flex;
+  gap: 15px;
+  height: 24px;
+  left: 0;
+  padding: 7px 10px;
+  position: absolute;
+  top: 0;
+  width: 272px;
+}
+
+.name,
+.name-1 {
+  align-self: stretch;
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 13.0px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.type-5,
+.type-7 {
+  letter-spacing: 0;
+  line-height: 18.2px;
+  margin-bottom: -8.44px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.null-8,
+.null-9 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 18.2px;
+  opacity: 0;
+  position: relative;
+  white-space: nowrap;
+  width: 35px;
+}
+
+.line-container-12,
+.line-container-13 {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 272px;
+}
+
+.bottom-line-12,
+.bottom-line-13 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 272px;
+}
+
+.left-line-12,
+.left-line-13 {
+  height: 23px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.right-line-12,
+.right-line-13 {
+  height: 23px;
+  left: 271px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+

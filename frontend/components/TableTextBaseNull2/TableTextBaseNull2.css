@@ -1,0 +1,21 @@
+.table-text-base-null-2 {
+  background-color: var(--graye);
+  display: flex;
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 24px;
+  width: 272px;
+}
+
+.table-text-base-null-2.table-text-base-null-4,
+.table-text-base-null-2.table-text-base-null-5 {
+  background-color: var(--graye);
+  display: flex;
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 87px;
+  width: 272px;
+}
+

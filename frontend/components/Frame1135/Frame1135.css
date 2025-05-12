@@ -1,0 +1,33 @@
+.frame-113-46 {
+  align-items: center;
+  border-radius: 6px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  justify-content: center;
+  margin-left: -2.00px;
+  padding: 15px;
+  position: relative;
+  transition: all 0.2s ease-in;
+  width: fit-content;
+}
+
+.frame-113-46:hover {
+  transform: scale(1.1);
+}
+
+.lean-vsm-2 {
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame-113-46.frame-113-54 {
+  margin-left: unset;
+}
+

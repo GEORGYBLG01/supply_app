@@ -1,0 +1,32 @@
+.frame-116-155,
+.frame-116-156 {
+  align-items: center;
+  background-color: var(--tropical-rain-forest);
+  border-radius: 6px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  justify-content: center;
+  padding: 15px;
+  position: relative;
+  transition: all 0.2s ease-in;
+  width: fit-content;
+}
+
+.frame-116-155:hover,
+.frame-116-156:hover {
+  transform: scale(1.1);
+}
+
+.physical-model-8,
+.physical-model-9 {
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+

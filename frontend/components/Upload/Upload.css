@@ -1,0 +1,225 @@
+.analysis-88 {
+    align-items: flex-start;
+    background-color: var(--white);
+    border: 1px none;
+    display: flex;
+    overflow: hidden;
+    width: 1440px;
+  }
+  
+  .overlap-group-13 {
+    height: 924px;
+    margin-left: -3px;
+    position: relative;
+    width: 1443px;
+  }
+  
+  .rectangle-4 {
+    background-color: var(--rum-swizzle);
+    border-radius: 0px 0px 66px 59px;
+    height: 924px;
+    left: 3px;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .rectangle-2 {
+    background-color: var(--rum-swizzle);
+    border-radius: 41px 0px 100px 118px;
+    box-shadow: 0px 4px 4px #00000040;
+    height: 183px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .nav-items-2-17 {
+    align-items: center;
+    cursor: pointer;
+    display: flex;
+    gap: 60px;
+    height: 48px;
+    justify-content: center;
+    left: 545px;
+    position: absolute;
+    top: 112px;
+    transition: all 0.2s ease-in;
+    width: 844px;
+  }
+  
+  .nav-items-2-17:hover {
+    transform: translate(0, -5px);
+  }
+  
+  .frame-115-115 {
+    align-items: center;
+    background-color: var(--tropical-rain-forest);
+    border-radius: 6px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    justify-content: center;
+    padding: 15px;
+    position: relative;
+    transition: all 0.2s ease-in;
+    width: fit-content;
+  }
+  
+  .frame-115-115:hover {
+    transform: scale(1.1);
+  }
+  
+  .analysis-89 {
+    letter-spacing: 0.2px;
+    line-height: 18px;
+    margin-top: -1px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .label-98 {
+    cursor: pointer;
+    letter-spacing: 0;
+    line-height: 25.9px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .x1200px-logo_icam_-_2008-1-13 {
+    cursor: pointer;
+    height: 74px;
+    left: 75px;
+    object-fit: cover;
+    position: absolute;
+    top: 20px;
+    width: 144px;
+  }
+  
+  .frame-5-9 {
+    align-items: center;
+    background-color: var(--rum-swizzle);
+    border-radius: 6px;
+    box-shadow: 0px 4px 11px #1e454945;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    height: 10px;
+    justify-content: center;
+    left: 53px;
+    padding: 15px;
+    position: absolute;
+    top: 200px;
+    width: 78px;
+  }
+  
+  .place-74 {
+    letter-spacing: 0.2px;
+    line-height: 18px;
+    margin-bottom: -8px;
+    margin-top: -10px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .formalismes-en-fonct {
+    color: var(--rum-swizzle);
+    font-family: var(--font-family-bevan);
+    font-size: var(--font-size-xxxxl);
+    font-weight: 400;
+    height: 48px;
+    left: 450px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 220px;
+    width: 570px;
+    padding-top: 80px;
+  }
+  .bu {
+    color: var(--tropical-rain-forest);
+    background-color: var(--rum-swizzle);
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 30px;
+    transition: transform 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  }
+  
+  .bu:hover {
+    transform: scale(1.05);
+    color: var(--tropical-rain-forest);
+    background-color: var(--rum-swizzle);
+  }
+  .side-by-side-container {
+    display: flex;
+    flex-direction: column; /* Arrange items in a column */
+    align-items: center; /* Center items horizontally */
+    margin-top: 20px; /* Adjust margin as needed */
+  }
+  
+  .table-container,
+  .image-container {
+    width: 100%; /* Each container takes up the full width */
+    padding: 20px; /* Adjust padding as needed */
+    box-sizing: border-box; /* Ensure padding is included in the container size */
+  }
+  
+  h2 {
+    color: orange;
+    font-size: larger;
+  }
+  
+  /* Additional styling as needed */
+  .column h2 {
+    color: white;
+    font-size: 24px;
+  }
+  
+  .column p {
+    color: white;
+    font-size: 16px;
+  }
+  /* InferenceResults.css */
+  
+  .body {
+    padding-top: 350px;
+    display: flex;
+    justify-content: center;
+    color: white;
+  }
+  
+  .result-groups {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .result-box {
+    width: 350px;
+    margin: 10px;
+    padding: 15px;
+    border: 2px solid #ddd;
+    box-sizing: border-box;
+    color: var(--tropical-rain-forest);
+    border-radius: 10px;
+    background-color: var(--rum-swizzle);
+  }
+  
+  .scrollable-container {
+    max-height: 200px; /* Set a maximum height for the scrollable container */
+    overflow-y: auto; /* Enable vertical scrolling when content overflows */
+  }
+  
+  .result-item {
+    margin-bottom: 100px; /* Espace entre chaque élément de résultat */
+  }
+  

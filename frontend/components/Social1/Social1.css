@@ -1,0 +1,359 @@
+/* Variables */
+:root {
+  --primary-color: #1E4549;
+  --primary-light: #3A6D71;
+  --primary-dark: #0A2A2E;
+  --secondary-color: #F0E6D2; /* Rum Swizzle */
+  --secondary-light: #FBEED5;
+  --accent-color: #004494;
+  --text-dark: #333333;
+  --text-light: #FFFFFF;
+  --background-light: #FFFFFF;
+  --background-dark: #F5F5F5;
+  --success-color: #28A745;
+  --error-color: #DC3545;
+  
+  /* Espacements */
+  --spacing-xs: 8px;
+  --spacing-sm: 16px;
+  --spacing-md: 24px;
+  --spacing-lg: 32px;
+  --spacing-xl: 48px;
+  
+  /* Bordures & Ombres */
+  --border-radius-sm: 8px;
+  --border-radius-md: 20px;
+  --border-radius-lg: 40px;
+  --box-shadow: 0px 4px 11px rgba(30, 69, 73, 0.27);
+  --box-shadow-hover: 0px 6px 15px rgba(30, 69, 73, 0.35);
+  
+  /* Transitions */
+  --transition-fast: all 0.2s ease-in-out;
+  --transition-medium: all 0.3s ease-in-out;
+}
+
+/* Structure principale */
+.social-1-1 {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  width: 100%;
+  background-color: var(--background-light);
+  font-family: 'Inter', sans-serif;
+  overflow-x: hidden;
+}
+
+/* En-tête */
+.overlap-group-27 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--secondary-color);
+  padding: var(--spacing-md) var(--spacing-xl);
+  border-radius: 0 0 var(--border-radius-lg) var(--border-radius-lg);
+  box-shadow: var(--box-shadow);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  width: 100%;
+  height: auto;
+}
+
+.x1200px-logo_icam_-_2008-1-27 {
+  height: 74px;
+  cursor: pointer;
+  transition: var(--transition-fast);
+}
+
+.x1200px-logo_icam_-_2008-1-27:hover {
+  transform: scale(1.05);
+}
+
+.nav-items-container-8 {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-md);
+  align-items: flex-end;
+}
+
+.nav-items-2-35 {
+  display: flex;
+  gap: var(--spacing-xl);
+  align-items: center;
+  border-radius: var(--border-radius-sm);
+  cursor: pointer;
+  transition: var(--transition-fast);
+}
+
+.nav-items-2-35:hover {
+  transform: translateY(-5px);
+}
+
+/* Contenu principal */
+.please-answer-the-following-questions-6 {
+  color: var(--primary-color);
+  font-size: 28px;
+  font-weight: 700;
+  margin: var(--spacing-xl) 0;
+  text-align: center;
+  position: relative;
+  width: 100%;
+  padding: 0 var(--spacing-lg);
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+.please-answer-the-following-questions-6::after {
+  content: '';
+  position: absolute;
+  bottom: -10px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 60px;
+  height: 3px;
+  background-color: var(--primary-light);
+  border-radius: 3px;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Barre de progression */
+.progress-container {
+  width: 100%;
+  margin: var(--spacing-lg) 0;
+  padding: 0 var(--spacing-md);
+  max-width: 900px;
+}
+
+.progress-bar {
+  width: 100%;
+  height: 12px;
+  background-color: var(--background-dark);
+  border-radius: 6px;
+  overflow: hidden;
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.progress-fill {
+  height: 100%;
+  background-color: var(--primary-color);
+  background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
+  background-size: 20px 20px;
+  border-radius: 6px;
+  transition: width 0.5s ease;
+  animation: progress-animation 1s linear infinite;
+}
+
+@keyframes progress-animation {
+  0% { background-position: 0 0; }
+  100% { background-position: 20px 0; }
+}
+
+.progress-text {
+  margin-top: var(--spacing-xs);
+  text-align: center;
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--primary-color);
+}
+
+/* Questions */
+.emploirelation-employeur-employ-1 {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-lg);
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 var(--spacing-md);
+}
+
+.emploi-relation-employeur-employ-1,
+.emploi-relation-employeur-employ-2 {
+  background-color: var(--background-light);
+  border-radius: var(--border-radius-md);
+  padding: var(--spacing-lg);
+  box-shadow: var(--box-shadow);
+  transition: var(--transition-fast);
+  border-left: 4px solid var(--primary-color);
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-md);
+  margin-bottom: var(--spacing-lg);
+  opacity: 0;
+  transform: translateY(20px);
+  animation: fadeInUp 0.5s ease-in-out forwards;
+}
+
+.emploi-relation-employeur-employ-1:hover,
+.emploi-relation-employeur-employ-2:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--box-shadow-hover);
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.emploi-relation-employeur-employ-1 { animation-delay: 0.1s; }
+.emploi-relation-employeur-employ-2 { animation-delay: 0.2s; }
+
+/* Questions */
+.do-you-limit-any-typ,
+.do-you-promote-stabi,
+.do-you-have-a-percen,
+.what-is-it,
+.do-you-prefer-to-hir,
+.do-you-have-turnover,
+.what-is-your-turnover-rate-over-a-year {
+  color: var(--primary-color);
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.4;
+  text-align: left;
+  width: 100%;
+  background-color: transparent;
+  border: none;
+  padding: var(--spacing-sm);
+  border-radius: var(--border-radius-sm);
+  opacity: 1;
+}
+
+/* Placeholders */
+.do-you-limit-any-typ::placeholder,
+.do-you-promote-stabi::placeholder,
+.do-you-have-a-percen::placeholder,
+.what-is-it::placeholder,
+.do-you-prefer-to-hir::placeholder,
+.do-you-have-turnover::placeholder,
+.what-is-your-turnover-rate-over-a-year::placeholder {
+  color: var(--text-dark);
+  opacity: 0.5;
+}
+
+/* Boutons d'action */
+.flex-row-74 {
+  display: flex;
+  gap: var(--spacing-md);
+  justify-content: center;
+  margin-top: var(--spacing-xl);
+  margin-bottom: var(--spacing-xl);
+  width: 100%;
+}
+
+.save-to-pdf,
+.frame-59 {
+  padding: var(--spacing-sm) var(--spacing-lg);
+  border-radius: var(--border-radius-sm);
+  font-weight: 600;
+  font-size: 16px;
+  cursor: pointer;
+  transition: var(--transition-medium);
+  border: none;
+  min-width: 180px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+
+.save-to-pdf {
+  background-color: var(--primary-color);
+  color: var(--text-light);
+  position: relative;
+  overflow: hidden;
+}
+
+.save-to-pdf::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+  transition: 0.5s;
+}
+
+.save-to-pdf:hover::after {
+  left: 100%;
+}
+
+.save-to-pdf:hover {
+  background-color: var(--primary-light);
+  transform: translateY(-3px);
+}
+
+.frame-59 {
+  background-color: var(--secondary-color);
+  color: var(--primary-color);
+  text-decoration: none;
+}
+
+.frame-59:hover {
+  background-color: var(--secondary-light);
+  transform: translateY(-3px);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .overlap-group-27 {
+    flex-direction: column;
+    gap: var(--spacing-md);
+    padding: var(--spacing-sm);
+    position: relative;
+    border-radius: 0 0 var(--border-radius-md) var(--border-radius-md);
+  }
+  
+  .nav-items-container-8 {
+    width: 100%;
+    align-items: center;
+  }
+  
+  .emploirelation-employeur-employ-1 {
+    flex-direction: column;
+    gap: var(--spacing-lg);
+  }
+  
+  .flex-row-74 {
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .save-to-pdf, .frame-59 {
+    width: 100%;
+  }
+  
+  .please-answer-the-following-questions-6 {
+    font-size: 24px;
+  }
+}
+
+@media (max-width: 480px) {
+  .please-answer-the-following-questions-6 {
+    font-size: 20px;
+  }
+  
+  .do-you-limit-any-typ,
+  .do-you-promote-stabi,
+  .do-you-have-a-percen,
+  .what-is-it,
+  .do-you-prefer-to-hir,
+  .do-you-have-turnover,
+  .what-is-your-turnover-rate-over-a-year {
+    font-size: 16px;
+  }
+}
+

@@ -1,0 +1,32 @@
+.frame-117-95,
+.frame-117-96 {
+  align-items: center;
+  background-color: var(--tropical-rain-forest);
+  border-radius: 6px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  justify-content: center;
+  padding: 15px;
+  position: relative;
+  transition: all 0.2s ease-in;
+  width: fit-content;
+}
+
+.frame-117-95:hover,
+.frame-117-96:hover {
+  transform: scale(1.1);
+}
+
+.kanban-12,
+.kanban-13 {
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+

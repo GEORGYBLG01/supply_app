@@ -1,0 +1,120 @@
+.frame-111,
+.frame-111-1 {
+  align-items: center;
+  display: flex;
+  gap: 94px;
+  margin-right: -1px;
+  margin-top: 80px;
+  position: relative;
+  width: 1528px;
+}
+
+.developpement-et-capital-humain-3,
+.developpement-et-capital-humain-3-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  position: relative;
+  width: 473px;
+}
+
+.do-you-1,
+.do-you-3 {
+  background-color: transparent;
+  border: 0;
+  color: var(--white-lilac);
+  font-weight: 400;
+  height: 107px;
+  line-height: normal;
+  min-width: 473px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.do-you-1::placeholder,
+.do-you-2::placeholder,
+.have-you-determined::placeholder,
+.x-you-1::placeholder,
+.do-you-3::placeholder,
+.do-you-4::placeholder,
+.have-you-determined-1::placeholder,
+.x-you-2::placeholder {
+  color: #f7f9fb99;
+}
+
+.developpement-et-capital-humain-4,
+.developpement-et-capital-humain-4-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  height: 328px;
+  position: relative;
+  width: 430px;
+}
+
+.do-you-2,
+.do-you-4 {
+  background-color: transparent;
+  border: 0;
+  color: var(--white-lilac);
+  font-weight: 400;
+  height: 107px;
+  line-height: normal;
+  margin-left: -21.50px;
+  margin-right: -21.50px;
+  min-width: 473px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.developpement-et-capital-humain-5,
+.developpement-et-capital-humain-5-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  height: 496px;
+  position: relative;
+  width: 401px;
+}
+
+.have-you-determined,
+.have-you-determined-1 {
+  background-color: transparent;
+  border: 0;
+  color: var(--white-lilac);
+  font-weight: 400;
+  height: 54px;
+  line-height: normal;
+  margin-left: -20.50px;
+  margin-right: -20.50px;
+  min-width: 442px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.x-you-1,
+.x-you-2 {
+  background-color: transparent;
+  border: 0;
+  color: var(--white-lilac);
+  font-weight: 400;
+  height: 79px;
+  line-height: normal;
+  margin-left: -36.00px;
+  margin-right: -36.00px;
+  min-width: 473px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+

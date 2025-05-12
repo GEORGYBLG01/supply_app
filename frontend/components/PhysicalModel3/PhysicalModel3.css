@@ -1,0 +1,79 @@
+.physical-model-3-1 {
+  background-color: var(--white);
+  border: 1px none;
+  height: 900px;
+  position: relative;
+  width: 1530px;
+}
+
+.overlap-group-50 {
+  height: 871px;
+  left: 4px;
+  position: absolute;
+  top: 2px;
+  width: 1525px;
+}
+
+.rectangle-3-21 {
+  background-color: var(--rum-swizzle);
+  border-radius: 41px 0px 100px 118px;
+  height: 182px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1525px;
+}
+
+.x1200px-logo_icam_-_2008-1-49 {
+  cursor: pointer;
+  height: 74px;
+  left: 68px;
+  object-fit: cover;
+  position: absolute;
+  top: 18px;
+  width: 144px;
+}
+
+.please-answer-the-following-questions-19 {
+  height: 97px;
+  left: 478px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 169px;
+  width: 577px;
+}
+
+.frame-113-58 {
+  align-items: center;
+  background-color: var(--rum-swizzle);
+  border-radius: 40px;
+  box-shadow: 0px 4px 11px #1e454945;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  justify-content: center;
+  left: 1296px;
+  padding: 15px;
+  position: absolute;
+  top: 841px;
+  transition: all 0.2s ease-in;
+  width: fit-content;
+}
+
+.frame-113-58:hover {
+  transform: scale(1.1);
+}
+
+.decisional-view {
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+

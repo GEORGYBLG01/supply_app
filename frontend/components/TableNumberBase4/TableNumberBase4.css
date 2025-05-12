@@ -1,0 +1,88 @@
+.table-number-base-6-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+  min-width: 271.9px;
+}
+
+.overlap-group1-8 {
+  height: 24px;
+  margin-top: 0;
+  position: relative;
+  width: 272px;
+}
+
+.field-6 {
+  align-items: flex-start;
+  background-color: var(--graye);
+  display: flex;
+  gap: 15px;
+  height: 24px;
+  left: 0;
+  padding: 7px 10px;
+  position: absolute;
+  top: 0;
+  width: 272px;
+}
+
+.type {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 18.2px;
+  position: relative;
+  white-space: nowrap;
+  width: 105px;
+}
+
+.null-4 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 18.2px;
+  opacity: 0;
+  position: relative;
+  white-space: nowrap;
+  width: 35px;
+}
+
+.line-container-6 {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 272px;
+}
+
+.bottom-line-6 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 272px;
+}
+
+.left-line-6 {
+  height: 23px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.right-line-6 {
+  height: 23px;
+  left: 271px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.table-number-base-6-1.table-number-base-7-1 .overlap-group1-8,
+.table-number-base-6-1.table-number-base-7-2 .overlap-group1-8,
+.table-number-base-6-1.table-number-base-7 .overlap-group1-8 {
+  margin-top: unset;
+}
+

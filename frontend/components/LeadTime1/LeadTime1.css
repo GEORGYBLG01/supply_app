@@ -1,0 +1,228 @@
+.lead-time-1-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 900px;
+  width: 1530px;
+}
+
+.overlap-group-30 {
+  align-items: flex-start;
+  background-color: var(--rum-swizzle);
+  border-radius: 41px 0px 100px 118px;
+  display: flex;
+  gap: 329px;
+  height: 180px;
+  justify-content: flex-end;
+  min-width: 1530px;
+  padding: 20px 59px;
+}
+
+.x1200px-logo_icam_-_2008-1-30 {
+  cursor: pointer;
+  height: 74px;
+  object-fit: cover;
+  width: 144px;
+}
+
+.nav-items-container-10 {
+  align-items: flex-end;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  margin-top: 6.0px;
+  min-height: 128px;
+  position: relative;
+  width: 926px;
+}
+
+.please-answer-the-following-questions-9 {
+  align-self: center;
+  height: 59px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 9.0px;
+  margin-top: 23px;
+  text-align: center;
+  width: 577px;
+}
+
+.dialogue-social-1 {
+  align-items: flex-start;
+  display: flex;
+  justify-content: center;
+  margin-right: 10.05px;
+  margin-top: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.dialogue-social-1-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.group-107 {
+  height: 286px;
+  margin-right: -4.00px;
+  min-width: 448px;
+  position: relative;
+}
+
+.flex-col-51 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 286px;
+  position: relative;
+  width: 444px;
+}
+
+.do-you-have-a-delay-rate {
+  background-color: transparent;
+  border: 0;
+  color: var(--white-lilac);
+  font-weight: 400;
+  height: 79px;
+  line-height: normal;
+  margin-top: 14px;
+  opacity: 0.5;
+  padding: 0;
+  text-align: center;
+  width: 444px;
+}
+
+.do-you-have-a-delay-rate::placeholder,
+.can-your-suppliers-b::placeholder,
+.if-no-can-you-change::placeholder {
+  color: #f7f9fb99;
+}
+
+.if-so-how-much-is-it {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 22px;
+  line-height: normal;
+  margin-left: 2.0px;
+  margin-top: 22px;
+  opacity: 0.5;
+  padding: 0;
+  text-align: center;
+  width: 406px;
+}
+
+.if-so-how-much-is-it::placeholder,
+.if-not-can-you-chang::placeholder,
+.do-you-have-calculat::placeholder,
+.do-you-have-1::placeholder {
+  color: #ffffff99;
+}
+
+.dialogue-social-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+  width: fit-content;
+}
+
+.can-your-suppliers-b {
+  background-color: transparent;
+  border: 0;
+  color: var(--white-lilac);
+  font-weight: 400;
+  height: 21px;
+  line-height: normal;
+  min-width: 516px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.if-not-can-you-chang {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 42px;
+  line-height: normal;
+  min-width: 516px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.dialogue-social-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  position: relative;
+  width: fit-content;
+}
+
+.if-no-can-you-change {
+  background-color: transparent;
+  border: 0;
+  color: var(--white-lilac);
+  font-weight: 400;
+  height: 107px;
+  line-height: normal;
+  min-width: 517px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.do-you-have-calculat {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 32px;
+  line-height: normal;
+  min-width: 491px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.do-you-have-1 {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 21px;
+  line-height: normal;
+  min-width: 523.95px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.flex-row-77 {
+  align-items: flex-start;
+  display: flex;
+  gap: 593px;
+  height: 88px;
+  margin-right: 75px;
+  margin-top: 24px;
+  min-width: 800px;
+  position: relative;
+}
+

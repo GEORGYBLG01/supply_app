@@ -1,0 +1,88 @@
+.frame-93-1 {
+  align-items: flex-start;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  height: 594px;
+  justify-content: center;
+  left: 795px;
+  overflow: hidden;
+  position: absolute;
+  top: 246px;
+  width: 699px;
+}
+
+.aprs-combien-de-temp-4 {
+  background-color: transparent;
+  border: 0;
+  color: var(--inter);
+  font-weight: 400;
+  height: 21px;
+  line-height: normal;
+  min-width: 568px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+}
+
+.aprs-combien-de-temp-4::placeholder,
+.x-de-4::placeholder,
+.accompagnez-vous-les-4::placeholder,
+.quel-est-le-turnover-4::placeholder {
+  color: #9f9f9f99;
+}
+
+.x-de-4 {
+  background-color: transparent;
+  border: 0;
+  color: var(--inter);
+  font-weight: 400;
+  height: 21px;
+  line-height: normal;
+  min-width: 563px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+}
+
+.accompagnez-vous-les-4 {
+  background-color: transparent;
+  border: 0;
+  color: var(--inter);
+  font-weight: 400;
+  height: 21px;
+  line-height: normal;
+  min-width: 616px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+}
+
+.quel-est-le-turnover-4 {
+  background-color: transparent;
+  border: 0;
+  color: var(--inter);
+  font-weight: 400;
+  height: 21.42px;
+  line-height: normal;
+  min-width: 641.36px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+}
+
+.frame-93-1.frame-86 {
+  left: 777px;
+  top: 241px;
+}
+
+.frame-93-1.frame-93-2 {
+  left: 799px;
+  top: 236px;
+}
+
+.frame-93-1.frame-86-1 {
+  left: 782px;
+}
+

@@ -1,0 +1,29 @@
+.menu-item-default-37 {
+  align-items: center;
+  display: flex;
+  gap: 12.95px;
+  position: relative;
+  width: fit-content;
+}
+
+.label-170 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.29px;
+  position: relative;
+  width: fit-content;
+}
+
+.menu-item-default-37.menu-item-default-38,
+.menu-item-default-37.menu-item-default-40,
+.menu-item-default-37.menu-item-default-42 {
+  cursor: pointer;
+}
+
+.menu-item-default-37.menu-item-default-38 .label-170,
+.menu-item-default-37.menu-item-default-40 .label-170,
+.menu-item-default-37.menu-item-default-42 .label-170 {
+  cursor: unset;
+}
+

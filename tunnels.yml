@@ -1,0 +1,17 @@
+tunnels:
+    frontend:
+        addr: 1234 # Port de ton frontend
+        proto: http
+    backend:
+        addr: 8000 # Port de ton backend
+        proto: http
+        inspect: false
+        headers:
+            response:
+                Access-Control-Allow-Origin: "*"
+                Access-Control-Allow-Methods: "*"
+                Access-Control-Allow-Headers: "*"
+version: "3"
+agent:
+    authtoken: 2uGRkIPdH25nYU1Z92IfFfmIivR_5LRcqHPp7DmoxdYfZAMW8
+    connect_url: connect.us.ngrok-agent.com:443 

@@ -1,0 +1,60 @@
+.frame-94 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+  left: 1101px;
+  min-height: 76px;
+  position: absolute;
+  top: 408px;
+  width: 396px;
+}
+
+.username {
+  color: var(--black);
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 7px;
+  margin-top: -1px;
+  min-height: 21px;
+}
+
+.overlap-group2 {
+  height: 45px;
+  position: relative;
+  width: 396px;
+}
+
+.rectangle-4361 {
+  border: 1px solid;
+  border-color: var(--tall-poppy);
+  border-radius: 6px;
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 396px;
+}
+
+.tap-here {
+  background-color: transparent;
+  border: 0;
+  color: var(--rum-swizzle);
+  font-weight: 400;
+  height: 44px;
+  left: 0;
+  line-height: normal;
+  padding: 0;
+  position: absolute;
+  top: 0;
+  width: 396px;
+}
+
+.tap-here::placeholder {
+  color: #f7f6e699;
+}
+
+.frame-94.frame-94-1 {
+  top: 406px;
+}
+

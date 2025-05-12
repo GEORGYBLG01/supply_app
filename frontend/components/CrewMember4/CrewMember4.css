@@ -1,0 +1,26 @@
+.crew-member-7,
+.crew-member-8 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 111px;
+  position: absolute;
+  top: 126px;
+  width: 272px;
+}
+
+.table-container-7,
+.table-container-8 {
+  height: 64px;
+  position: relative;
+  width: 272px;
+}
+
+.table-text-base-container-5,
+.table-text-base-container-6 {
+  height: 47px;
+  position: relative;
+  width: 272px;
+}
+

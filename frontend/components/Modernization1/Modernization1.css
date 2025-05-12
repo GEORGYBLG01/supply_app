@@ -1,0 +1,184 @@
+.modernization-1-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 900px;
+  width: 1530px;
+}
+
+.overlap-group-28 {
+  height: 271px;
+  position: relative;
+  width: 1530px;
+}
+
+.rectangle-3-12 {
+  background-color: var(--rum-swizzle);
+  border-radius: 41px 0px 100px 118px;
+  height: 180px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1530px;
+}
+
+.x1200px-logo_icam_-_2008-1-28 {
+  cursor: pointer;
+  height: 74px;
+  left: 72px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 144px;
+}
+
+.please-answer-the-following-questions-7 {
+  height: 97px;
+  left: 467px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 174px;
+  width: 577px;
+}
+
+.emploirelation-employeur-employ-2 {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  gap: 138px;
+  justify-content: center;
+  margin-left: 8.0px;
+  margin-top: 19px;
+  position: relative;
+  width: fit-content;
+}
+
+.emploi-relation-employeur-employ-1-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  position: relative;
+  width: fit-content;
+}
+
+.do-you-have-ai-model {
+  background-color: transparent;
+  border: 0;
+  color: var(--white-lilac);
+  font-weight: 400;
+  height: 21px;
+  line-height: normal;
+  min-width: 684px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.do-you-have-ai-model::placeholder,
+.do-you-have-models-f::placeholder {
+  color: #f7f9fb99;
+}
+
+.do-you-use-intellige {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 21px;
+  line-height: normal;
+  min-width: 610px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.do-you-use-intellige::placeholder,
+.do-you-have::placeholder,
+.do-you-have-robots-t::placeholder,
+.do-you-have-a-cybers::placeholder {
+  color: #ffffff99;
+}
+
+.do-you-have {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 21px;
+  line-height: normal;
+  min-width: 605px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.emploi-relation-employeur-employ-2-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  position: relative;
+  width: fit-content;
+}
+
+.do-you-have-models-f {
+  background-color: transparent;
+  border: 0;
+  color: var(--white-lilac);
+  font-weight: 400;
+  height: 21px;
+  line-height: normal;
+  min-width: 630px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.do-you-have-robots-t {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 21px;
+  line-height: normal;
+  min-width: 447px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.do-you-have-a-cybers {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 21px;
+  line-height: normal;
+  min-width: 583px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.flex-row-75 {
+  align-items: flex-start;
+  display: flex;
+  gap: 558px;
+  height: 76px;
+  margin-right: 96px;
+  margin-top: 149px;
+  min-width: 765px;
+  position: relative;
+}
+

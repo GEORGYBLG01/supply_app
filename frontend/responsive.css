@@ -1,0 +1,289 @@
+/* responsive.css - Règles strictes pour le responsive design */
+
+/* Règles de base pour tous les éléments */
+* {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+html, body {
+  overflow-x: hidden;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Images responsives */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Conteneurs avec largeur maximale */
+.container, 
+.main-content,
+.content-wrapper,
+.section,
+.row {
+  width: 100%;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+/* Flexbox pour les layouts */
+.flex-container,
+.flex-row,
+.flex-column,
+.d-flex {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+/* Tables responsives */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+@media (max-width: 768px) {
+  table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+}
+
+/* Adaptations pour les écrans de taille moyenne */
+@media (max-width: 992px) {
+  .container, 
+  .main-content,
+  .content-wrapper,
+  .section,
+  .row {
+    max-width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  
+  /* Forcer le redimensionnement des colonnes pour les layouts flexbox */
+  .col-md-12, .col-md-6, .col-md-4, .col-md-3 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  
+  /* Réduire les marges et paddings */
+  .p-md-2 {
+    padding: 0.5rem !important;
+  }
+  
+  .m-md-2 {
+    margin: 0.5rem !important;
+  }
+}
+
+/* Adaptations pour les tablettes */
+@media (max-width: 768px) {
+  /* Forcer tous les éléments à utiliser la largeur complète */
+  .col-sm-12, .col-sm-6, .col-sm-4, .col-sm-3 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  
+  /* Transformation des layouts flex en colonnes */
+  .flex-sm-column {
+    flex-direction: column !important;
+  }
+  
+  /* Réduire les espacements */
+  .p-sm-1 {
+    padding: 0.25rem !important;
+  }
+  
+  .m-sm-1 {
+    margin: 0.25rem !important;
+  }
+  
+  /* Ajustement de la taille des boutons */
+  button, .btn {
+    padding: 0.5rem 1rem;
+    font-size: 0.875rem;
+  }
+}
+
+/* Adaptations pour les mobiles */
+@media (max-width: 576px) {
+  /* Marges minimales */
+  .container, 
+  .main-content,
+  .content-wrapper,
+  .section,
+  .row {
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+  
+  /* Réduire les tailles de police */
+  body {
+    font-size: 14px;
+  }
+  
+  h1 {
+    font-size: 1.5rem;
+  }
+  
+  h2 {
+    font-size: 1.25rem;
+  }
+  
+  h3 {
+    font-size: 1.125rem;
+  }
+  
+  /* Réduction des espacements */
+  .p-1 {
+    padding: 0.2rem !important;
+  }
+  
+  .m-1 {
+    margin: 0.2rem !important;
+  }
+  
+  /* Ajustement des formulaires */
+  input, select, textarea {
+    font-size: 16px; /* Empêche le zoom sur iOS */
+    padding: 8px;
+  }
+  
+  /* Boutons plus grands pour les écrans tactiles */
+  button, .btn, [type="button"], [type="submit"] {
+    min-height: 44px; /* Taille minimale pour les éléments cliquables */
+    min-width: 44px;
+  }
+}
+
+/* Adaptations pour les très petits écrans */
+@media (max-width: 360px) {
+  body {
+    font-size: 13px;
+  }
+  
+  h1 {
+    font-size: 1.25rem;
+  }
+  
+  h2 {
+    font-size: 1.125rem;
+  }
+  
+  h3 {
+    font-size: 1rem;
+  }
+  
+  /* Boutons à pleine largeur */
+  button, .btn {
+    width: 100%;
+    padding: 0.5rem;
+    font-size: 0.8125rem;
+  }
+  
+  /* Réduction maximale des espacements */
+  .container, 
+  .main-content,
+  .content-wrapper,
+  .section,
+  .row {
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+}
+
+/* Règles de forçage pour les problèmes courants */
+/* Ces règles sont délibérément très strictes pour rendre le site responsive en forçant les adaptations */
+
+/* Forcer tous les éléments à respecter la largeur du parent */
+* {
+  max-width: 100vw !important;
+}
+
+/* Forcer le redimensionnement des images */
+img, svg, video, canvas, picture, object {
+  max-width: 100% !important;
+  height: auto !important;
+}
+
+/* Empêcher les éléments de créer des débordements horizontaux */
+[style*="width"], 
+[style*="left"], 
+[style*="right"], 
+[style*="margin"], 
+[style*="padding"],
+[class*="container"],
+[class*="wrapper"],
+[class*="section"],
+[class*="content"],
+[class*="box"],
+[class*="panel"],
+[class*="card"] {
+  max-width: 100% !important;
+  box-sizing: border-box !important;
+}
+
+/* Gérer les éléments positionnés absolument */
+@media (max-width: 768px) {
+  [style*="position: absolute"],
+  [style*="position:absolute"] {
+    position: relative !important;
+    top: auto !important;
+    left: auto !important;
+    right: auto !important;
+    bottom: auto !important;
+    transform: none !important;
+  }
+  
+  /* Forcer les colonnes à s'empiler sur mobile */
+  [class*="col-"],
+  [class*="column"],
+  .grid > * {
+    width: 100% !important;
+    flex: 0 0 100% !important;
+    max-width: 100% !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+}
+
+/* Adaptations spécifiques pour les éléments qui utilisent des largeurs fixes */
+@media (max-width: 480px) {
+  [style*="width:"],
+  [style*="width: "] {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+  
+  /* Forcer tous les éléments à flex-start pour une meilleure lisibilité */
+  .flex-container > *,
+  .flex-row > *,
+  .flex-column > *,
+  .d-flex > * {
+    align-self: flex-start !important;
+    text-align: left !important;
+  }
+  
+  /* Adaptation spéciale pour les cartes et les panneau */
+  .card, .panel, .box {
+    width: 100% !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding: 10px !important;
+  }
+} 

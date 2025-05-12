@@ -1,0 +1,61 @@
+.frame-117-76,
+.frame-117-77,
+.frame-117-78,
+.frame-117-79,
+.frame-117-80,
+.frame-117-81,
+.frame-117-82,
+.frame-117-83,
+.frame-117-84,
+.frame-117-85,
+.frame-117-86,
+.frame-117-87 {
+  align-items: center;
+  border-radius: 6px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  justify-content: center;
+  padding: 15px;
+  position: relative;
+  transition: all 0.2s ease-in;
+  width: fit-content;
+}
+
+.frame-117-76:hover,
+.frame-117-77:hover,
+.frame-117-78:hover,
+.frame-117-79:hover,
+.frame-117-80:hover,
+.frame-117-81:hover,
+.frame-117-82:hover,
+.frame-117-83:hover,
+.frame-117-84:hover,
+.frame-117-85:hover,
+.frame-117-86:hover,
+.frame-117-87:hover {
+  transform: scale(1.1);
+}
+
+.kanban,
+.kanban-1,
+.kanban-2,
+.kanban-3,
+.kanban-4,
+.kanban-5,
+.kanban-6,
+.kanban-7,
+.kanban-8,
+.kanban-9,
+.kanban-10,
+.kanban-11 {
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+

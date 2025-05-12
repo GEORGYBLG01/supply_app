@@ -1,0 +1,61 @@
+.frame-114-96,
+.frame-114-97,
+.frame-114-99,
+.frame-114-101,
+.frame-114-102,
+.frame-114-103,
+.frame-114-104,
+.frame-114-105,
+.frame-114-106,
+.frame-114-107,
+.frame-114-108,
+.frame-114-109 {
+  align-items: center;
+  border-radius: 6px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  justify-content: center;
+  padding: 15px;
+  position: relative;
+  transition: all 0.2s ease-in;
+  width: fit-content;
+}
+
+.frame-114-96:hover,
+.frame-114-97:hover,
+.frame-114-99:hover,
+.frame-114-101:hover,
+.frame-114-102:hover,
+.frame-114-103:hover,
+.frame-114-104:hover,
+.frame-114-105:hover,
+.frame-114-106:hover,
+.frame-114-107:hover,
+.frame-114-108:hover,
+.frame-114-109:hover {
+  transform: scale(1.1);
+}
+
+.x5-s,
+.x5-s-1,
+.x5-s-2,
+.x5-s-3,
+.x5-s-4,
+.x5-s-5,
+.x5-s-6,
+.x5-s-7,
+.x5-s-8,
+.x5-s-9,
+.x5-s-10,
+.x5-s-11 {
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+

@@ -1,0 +1,180 @@
+.social-3 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 900px;
+  overflow: hidden;
+  width: 1530px;
+}
+
+.overlap-group-80 {
+  align-items: flex-start;
+  background-color: var(--rum-swizzle);
+  border-radius: 41px 0px 100px 118px;
+  display: flex;
+  gap: 329px;
+  height: 180px;
+  justify-content: flex-end;
+  margin-right: -2px;
+  min-width: 1533px;
+  padding: 20px 61px;
+}
+
+.x1200px-logo_icam_-_2008-1-79 {
+  cursor: pointer;
+  height: 74px;
+  object-fit: cover;
+  width: 144px;
+}
+
+.nav-items-container-44 {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  margin-bottom: 2px;
+  min-height: 128px;
+  position: relative;
+  width: 926px;
+}
+
+.conditions-de-travai {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  gap: 90px;
+  margin-right: 24.0px;
+  margin-top: 100px;
+  position: relative;
+  width: fit-content;
+}
+
+.conditions-de-travai-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-124 {
+  height: 248px;
+  min-width: 655px;
+  position: relative;
+}
+
+.flex-col-101 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 248px;
+  position: relative;
+  width: 684px;
+}
+
+.do-you-listen-to-wor {
+  background-color: transparent;
+  border: 0;
+  color: var(--white-lilac);
+  font-weight: 400;
+  height: 42px;
+  line-height: normal;
+  margin-top: 15px;
+  opacity: 0.5;
+  padding: 0;
+  text-align: center;
+  width: 684px;
+}
+
+.do-you-listen-to-wor::placeholder,
+.do-you-promote-stabi-1::placeholder {
+  color: #f7f9fb99;
+}
+
+.do-you-conduct-at-le {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 21px;
+  line-height: normal;
+  margin-right: 6.0px;
+  margin-top: 13px;
+  opacity: 0.5;
+  padding: 0;
+  text-align: center;
+  width: 610px;
+}
+
+.do-you-conduct-at-le::placeholder,
+.do-you-offer-adapted::placeholder,
+.do-you-ensure-decent::placeholder {
+  color: #ffffff99;
+}
+
+.conditions-de-travai-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  position: relative;
+  width: fit-content;
+}
+
+.do-you-promote-stabi-1 {
+  background-color: transparent;
+  border: 0;
+  color: var(--white-lilac);
+  font-weight: 400;
+  height: 42px;
+  line-height: normal;
+  min-width: 675px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.do-you-offer-adapted {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 21px;
+  line-height: normal;
+  min-width: 423px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.do-you-ensure-decent {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 63px;
+  line-height: normal;
+  min-width: 657px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.flex-row-145 {
+  align-items: flex-start;
+  display: flex;
+  gap: 610px;
+  height: 61px;
+  margin-right: 81px;
+  margin-top: 161px;
+  min-width: 782px;
+  position: relative;
+}
+

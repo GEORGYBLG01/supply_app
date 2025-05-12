@@ -1,0 +1,122 @@
+.quality-5 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 900px;
+  width: 1530px;
+}
+
+.overlap-group-49 {
+  align-items: flex-start;
+  background-color: var(--rum-swizzle);
+  border-radius: 41px 0px 100px 118px;
+  display: flex;
+  gap: 329px;
+  height: 167px;
+  justify-content: flex-end;
+  min-width: 1530px;
+  padding: 10px 59px;
+}
+
+.x1200px-logo_icam_-_2008-1-48 {
+  cursor: pointer;
+  height: 74px;
+  margin-top: 10px;
+  object-fit: cover;
+  width: 144px;
+}
+
+.nav-items-container-21 {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  min-height: 128px;
+  position: relative;
+  width: 926px;
+}
+
+.developpement-et-capital-humain-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  margin-left: 58.0px;
+  margin-top: 163px;
+  position: relative;
+  width: fit-content;
+}
+
+.developpement-et-capital-humain {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+  width: fit-content;
+}
+
+.do-you-carry-out-int {
+  background-color: transparent;
+  border: 0;
+  color: var(--white-lilac);
+  font-weight: 400;
+  height: 56px;
+  line-height: normal;
+  min-width: 460px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.do-you-carry-out-int::placeholder,
+.do-you-define-the-au::placeholder {
+  color: #f7f9fb99;
+}
+
+.do-you-6 {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 43.61px;
+  line-height: normal;
+  min-width: 516px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.do-you-6::placeholder {
+  color: #ffffff99;
+}
+
+.do-you-define-the-au {
+  background-color: transparent;
+  border: 0;
+  color: var(--white-lilac);
+  font-weight: 400;
+  height: 44px;
+  line-height: normal;
+  min-width: 460px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.flex-row-92 {
+  align-items: flex-start;
+  display: flex;
+  gap: 435px;
+  height: 60px;
+  margin-left: 432.0px;
+  margin-top: 119px;
+  min-width: 642px;
+  position: relative;
+}
+

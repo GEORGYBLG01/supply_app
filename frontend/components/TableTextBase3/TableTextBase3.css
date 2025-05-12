@@ -1,0 +1,11 @@
+.table-text-base-8,
+.table-text-base-9 {
+  background-color: var(--graye);
+  display: flex;
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 272px;
+}
+

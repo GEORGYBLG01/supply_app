@@ -1,0 +1,36 @@
+.frame-117-71 {
+  align-items: center;
+  border-radius: 6px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  justify-content: center;
+  padding: 15px;
+  position: relative;
+  transition: all 0.2s ease-in;
+  width: fit-content;
+}
+
+.frame-117-71:hover {
+  transform: scale(1.1);
+}
+
+.design-1 {
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame-117-71.frame-117-89 {
+  margin-right: -3.50px;
+}
+
+.frame-117-71.frame-117-142 {
+  margin-right: -7.00px;
+}
+

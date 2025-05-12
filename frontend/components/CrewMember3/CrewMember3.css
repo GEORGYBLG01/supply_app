@@ -1,0 +1,20 @@
+.crew-member-5,
+.crew-member-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 751px;
+  min-height: 111px;
+  position: absolute;
+  top: 126px;
+  width: 272px;
+}
+
+.table-container-5,
+.table-container-6 {
+  height: 64px;
+  margin-left: 0;
+  position: relative;
+  width: 272px;
+}
+

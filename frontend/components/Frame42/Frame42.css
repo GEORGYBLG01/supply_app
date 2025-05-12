@@ -1,0 +1,74 @@
+.frame-4-52-1 {
+  align-items: center;
+  background-color: var(--rum-swizzle);
+  border-radius: 10px;
+  box-shadow: 0px 4px 11px #1e454945;
+  display: flex;
+  gap: 24px;
+  height: 36px;
+  justify-content: center;
+  padding: 15px;
+  position: relative;
+  width: 43px;
+}
+
+.yes-37 {
+  color: var(--tropical-rain-forest);
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: -6.43px;
+  margin-left: -6.18px;
+  margin-right: -6.18px;
+  margin-top: -8.43px;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-4-52-1.frame-4-53,
+.frame-4-52-1.frame-4-53-1,
+.frame-4-52-1.frame-4-57,
+.frame-4-52-1.frame-4-57-1 {
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 42px;
+}
+
+.frame-4-52-1.frame-4-53-1 .yes-37,
+.frame-4-52-1.frame-4-53 .yes-37,
+.frame-4-52-1.frame-4-55-1 .yes-37,
+.frame-4-52-1.frame-4-55 .yes-37,
+.frame-4-52-1.frame-4-57-1 .yes-37,
+.frame-4-52-1.frame-4-57 .yes-37 {
+  margin-bottom: -6.50px;
+  margin-left: -6.39px;
+  margin-right: -6.39px;
+  margin-top: -8.50px;
+}
+
+.frame-4-52-1.frame-4-55,
+.frame-4-52-1.frame-4-55-1 {
+  width: 42px;
+}
+
+.frame-4-52-1.frame-4-59,
+.frame-4-52-1.frame-4-59-1,
+.frame-4-52-1.frame-4-59-2 {
+  height: 37px;
+}
+
+.frame-4-52-1.frame-4-59-1 .yes-37,
+.frame-4-52-1.frame-4-59-2 .yes-37,
+.frame-4-52-1.frame-4-59 .yes-37 {
+  margin-bottom: -6.25px;
+  margin-top: -8.25px;
+}
+
+.frame-4-52-1.frame-4-58-1 .yes-37,
+.frame-4-52-1.frame-4-58-2 .yes-37,
+.frame-4-52-1.frame-4-58-3 .yes-37,
+.frame-4-52-1.frame-4-58 .yes-37 {
+  margin-bottom: -6.58px;
+  margin-top: -8.58px;
+}
+

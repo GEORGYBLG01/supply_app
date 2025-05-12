@@ -1,0 +1,160 @@
+.informational-model-2-1 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  height: 900px;
+  width: 1530px;
+}
+
+.flex-col-52 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  min-height: 224px;
+  width: 1530px;
+}
+
+.overlap-group-42 {
+  align-items: flex-start;
+  background-color: var(--rum-swizzle);
+  border-radius: 41px 0px 100px 118px;
+  display: flex;
+  gap: 360px;
+  height: 180px;
+  justify-content: flex-end;
+  min-width: 1530px;
+  padding: 20px 28px;
+}
+
+.x1200px-logo_icam_-_2008-1-41 {
+  cursor: pointer;
+  height: 74px;
+  object-fit: cover;
+  width: 144px;
+}
+
+.nav-items-container-19 {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  margin-bottom: 2px;
+  min-height: 128px;
+  position: relative;
+  width: 926px;
+}
+
+.please-answer-the-following-questions-13 {
+  height: 34px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 13.0px;
+  text-align: center;
+  width: 577px;
+}
+
+.flex-row-89 {
+  align-items: flex-start;
+  display: flex;
+  gap: 31px;
+  height: 653px;
+  margin-right: 16.0px;
+  min-width: 1414px;
+}
+
+.overlap-group1-33 {
+  height: 642px;
+  position: relative;
+  width: 727px;
+}
+
+.frame-96-3 {
+  align-items: flex-start;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  height: 605px;
+  justify-content: center;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 641px;
+}
+
+.vos-employs-sont-ils {
+  background-color: transparent;
+  border: 0;
+  color: var(--inter);
+  font-weight: 400;
+  height: 22px;
+  line-height: normal;
+  min-width: 568px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+}
+
+.vos-employs-sont-ils::placeholder,
+.avez-vous-un-managem::placeholder,
+.sez-vous::placeholder,
+.est-ce-que-les-journ::placeholder {
+  color: #9f9f9f99;
+}
+
+.avez-vous-un-managem {
+  background-color: transparent;
+  border: 0;
+  color: var(--inter);
+  font-weight: 400;
+  height: 21px;
+  line-height: normal;
+  min-width: 563px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+}
+
+.sez-vous {
+  background-color: transparent;
+  border: 0;
+  color: var(--inter);
+  font-weight: 400;
+  height: 22px;
+  line-height: normal;
+  min-width: 563px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+}
+
+.est-ce-que-les-journ {
+  background-color: transparent;
+  border: 0;
+  color: var(--inter);
+  font-weight: 400;
+  height: 21px;
+  line-height: normal;
+  min-width: 568px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+}
+
+.frame-container-11 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  min-height: 648px;
+  position: relative;
+  width: 656px;
+}
+

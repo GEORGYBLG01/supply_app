@@ -1,0 +1,377 @@
+:root {
+  --icam-blue: #004494;
+  --icam-light-blue: #0077c8;
+  --icam-red: #e30613;
+  --icam-gray: #f2f2f2;
+  --icam-dark-gray: #333333;
+  --shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.inscription-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: linear-gradient(135deg, var(--icam-red) 0%, var(--icam-blue) 100%);
+  padding: 20px;
+  font-family: 'Roboto', 'Arial', sans-serif;
+}
+
+.inscription-card {
+  display: flex;
+  width: 100%;
+  max-width: 1000px;
+  min-height: 600px;
+  background-color: white;
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: var(--shadow);
+  flex-direction: row-reverse;
+}
+
+.inscription-right {
+  flex: 1;
+  background-color: var(--icam-red);
+  color: white;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.inscription-right::before {
+  content: '';
+  position: absolute;
+  top: -50px;
+  right: -50px;
+  width: 200px;
+  height: 200px;
+  background-color: var(--icam-blue);
+  border-radius: 50%;
+  opacity: 0.1;
+}
+
+.inscription-right::after {
+  content: '';
+  position: absolute;
+  bottom: -100px;
+  left: -100px;
+  width: 300px;
+  height: 300px;
+  background-color: var(--icam-light-blue);
+  border-radius: 50%;
+  opacity: 0.1;
+}
+
+.inscription-logo-container {
+  margin-bottom: 40px;
+  position: relative;
+  z-index: 1;
+}
+
+.inscription-logo {
+  max-width: 200px;
+  height: auto;
+  background-color: white;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.inscription-welcome {
+  font-size: 28px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  position: relative;
+  z-index: 1;
+}
+
+.inscription-description {
+  font-size: 16px;
+  line-height: 1.6;
+  opacity: 0.9;
+  position: relative;
+  z-index: 1;
+  margin-bottom: 30px;
+}
+
+.inscription-features {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  position: relative;
+  z-index: 1;
+}
+
+.inscription-feature {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.inscription-feature-icon {
+  width: 24px;
+  height: 24px;
+  background-color: white;
+  color: var(--icam-red);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+}
+
+.inscription-feature-text {
+  font-size: 16px;
+}
+
+.inscription-left {
+  flex: 1;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.inscription-form-container {
+  max-width: 400px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.inscription-title {
+  font-size: 32px;
+  font-weight: 700;
+  color: var(--icam-dark-gray);
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.inscription-error {
+  background-color: rgba(227, 6, 19, 0.1);
+  color: var(--icam-red);
+  padding: 12px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  font-size: 14px;
+  text-align: center;
+}
+
+.inscription-form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.inscription-input-group {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.inscription-input-group label {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--icam-dark-gray);
+}
+
+.inscription-input-group input {
+  padding: 12px 16px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  font-size: 16px;
+  transition: all 0.3s ease;
+}
+
+.inscription-input-group input:focus {
+  border-color: var(--icam-red);
+  box-shadow: 0 0 0 2px rgba(227, 6, 19, 0.2);
+  outline: none;
+}
+
+.inscription-button {
+  margin-top: 10px;
+  padding: 14px;
+  background-color: var(--icam-red);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.inscription-button:hover {
+  background-color: #c00510;
+  transform: translateY(-2px);
+}
+
+.inscription-button:disabled {
+  background-color: #cccccc;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.inscription-footer {
+  margin-top: 30px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.inscription-footer p {
+  font-size: 14px;
+  color: var(--icam-dark-gray);
+}
+
+.login-link {
+  background: none;
+  border: none;
+  color: var(--icam-blue);
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  padding: 0;
+  font-size: 16px;
+}
+
+.login-link:hover {
+  color: var(--icam-red);
+  text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+  .inscription-card {
+    flex-direction: column;
+  }
+  
+  .inscription-left, .inscription-right {
+    padding: 30px;
+  }
+  
+  .inscription-right {
+    min-height: 200px;
+  }
+}
+
+.inscription {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 810px;
+  height: 900px;
+  overflow: hidden;
+  width: 1530px;
+}
+
+.overlap-group2-12 {
+  height: 934px;
+  margin-left: -581px;
+  position: relative;
+  width: 2111px;
+}
+
+.aerial-view-container-cargo-ship-sea-1-1 {
+  height: 900px;
+  left: 581px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1530px;
+}
+
+.ellipse-1-1 {
+  background-color: var(--login);
+  border-radius: 381.5px/414.5px;
+  height: 829px;
+  left: 0;
+  position: absolute;
+  top: 105px;
+  width: 763px;
+}
+
+.ellipse-2-1 {
+  background-color: var(--secendry);
+  border-radius: 32px/34.5px;
+  height: 69px;
+  left: 587px;
+  position: absolute;
+  top: 164px;
+  width: 64px;
+}
+
+.subtract-1 {
+  height: 498px;
+  left: 1759px;
+  position: absolute;
+  top: 0;
+  width: 352px;
+}
+
+.polygon-1-1 {
+  height: 156px;
+  left: 1960px;
+  position: absolute;
+  top: 744px;
+  width: 151px;
+}
+
+.polygon-2-1 {
+  height: 218px;
+  left: 1912px;
+  position: absolute;
+  top: 682px;
+  width: 199px;
+}
+
+.frame-1-19 {
+  background-color: var(--login);
+  border-radius: 6px;
+  cursor: pointer;
+  height: 47px;
+  left: 1151px;
+  position: absolute;
+  top: 702px;
+  transition: all 0.2s ease-in;
+  width: 369px;
+}
+
+.frame-1-19:hover,
+.login-1:hover {
+  transform: scale(1.1);
+}
+
+.login-1 {
+  cursor: pointer;
+  height: 47px;
+  left: 1151px;
+  letter-spacing: 0;
+  line-height: 25.9px;
+  position: absolute;
+  text-align: center;
+  top: 701px;
+  transition: all 0.2s ease-in;
+  width: 369px;
+}
+
+.x1200px-logo_icam_-_20081 {
+  height: 172px;
+  left: 1096px;
+  object-fit: cover;
+  position: absolute;
+  top: 184px;
+  width: 323px;
+}
+
+.polygon-3-1 {
+  align-self: center;
+  height: 294px;
+  margin-right: 411.18px;
+  width: 293px;
+}
+

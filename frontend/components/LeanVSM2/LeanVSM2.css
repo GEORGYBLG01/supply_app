@@ -1,0 +1,170 @@
+.lean-vsm-2-1 {
+  background-color: var(--white);
+  border: 1px none;
+  height: 900px;
+  position: relative;
+  width: 1530px;
+}
+
+.overlap-group-74 {
+  height: 849px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1524px;
+}
+
+.rectangle-3-29 {
+  background-color: var(--rum-swizzle);
+  border-radius: 41px 0px 100px 118px;
+  height: 180px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1524px;
+}
+
+.x1200px-logo_icam_-_2008-1-73 {
+  cursor: pointer;
+  height: 74px;
+  left: 72px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 144px;
+}
+
+.please-answer-the-following-questions-29 {
+  height: 50px;
+  left: 477px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 178px;
+  width: 577px;
+}
+
+.frame-89 {
+  align-items: flex-start;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  height: 633px;
+  justify-content: center;
+  left: 84px;
+  overflow: hidden;
+  position: absolute;
+  top: 216px;
+  width: 651px;
+}
+
+.a-quelle-frquence-re-10 {
+  background-color: transparent;
+  border: 0;
+  color: var(--inter);
+  font-weight: 400;
+  height: 22px;
+  line-height: normal;
+  min-width: 568px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+}
+
+.a-quelle-frquence-re-10::placeholder,
+.combien-de-temps-en-10::placeholder,
+.vous-10::placeholder,
+.x-21::placeholder,
+.dans-quel-rayon-se-situe-vos-clients-11::placeholder,
+.a-quelle-frquence-ef-1::placeholder,
+.quel-est-votre-taux-de-service-1::placeholder,
+.quel-est-votre-taux-de-retard-11::placeholder,
+.x-22::placeholder {
+  color: #9f9f9f99;
+}
+
+.combien-de-temps-en-10,
+.a-quelle-frquence-ef-1,
+.quel-est-votre-taux-de-service-1 {
+  background-color: transparent;
+  border: 0;
+  color: var(--inter);
+  font-weight: 400;
+  height: 21px;
+  line-height: normal;
+  min-width: 563px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+}
+
+.vous-10 {
+  background-color: transparent;
+  border: 0;
+  color: var(--inter);
+  font-weight: 400;
+  height: 22px;
+  line-height: normal;
+  min-width: 563px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+}
+
+.x-21,
+.dans-quel-rayon-se-situe-vos-clients-11 {
+  background-color: transparent;
+  border: 0;
+  color: var(--inter);
+  font-weight: 400;
+  height: 21px;
+  line-height: normal;
+  min-width: 568px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+}
+
+.frame-90 {
+  align-items: flex-start;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  height: 594px;
+  justify-content: center;
+  left: 825px;
+  overflow: hidden;
+  position: absolute;
+  top: 236px;
+  width: 699px;
+}
+
+.quel-est-votre-taux-de-retard-11 {
+  background-color: transparent;
+  border: 0;
+  color: var(--inter);
+  font-weight: 400;
+  height: 21px;
+  line-height: normal;
+  min-width: 616px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+}
+
+.x-22 {
+  background-color: transparent;
+  border: 0;
+  color: var(--inter);
+  font-weight: 400;
+  height: 21.42px;
+  line-height: normal;
+  min-width: 641.36px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+}
+

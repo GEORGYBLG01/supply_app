@@ -1,0 +1,180 @@
+.connexion {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 900px;
+  overflow: hidden;
+  width: 1530px;
+}
+
+.overlap-group4 {
+  height: 1029px;
+  margin-left: -581px;
+  margin-top: -2px;
+  position: relative;
+  width: 2219px;
+}
+
+.polygon-3 {
+  height: 294px;
+  left: 994px;
+  position: absolute;
+  top: 735px;
+  width: 293px;
+}
+
+.frame-129 {
+  display: flex;
+  height: 1003px;
+  left: 581px;
+  position: absolute;
+  top: 0;
+  width: 1530px;
+}
+
+.aerial-view-container-cargo-ship-sea-1 {
+  height: 900px;
+  margin-top: 2px;
+  object-fit: cover;
+  width: 1530px;
+}
+
+.ellipse-1 {
+  background-color: var(--login);
+  border-radius: 381.5px/414.5px;
+  height: 829px;
+  left: 0;
+  position: absolute;
+  top: 107px;
+  width: 763px;
+}
+
+.ellipse-2 {
+  background-color: var(--secendry);
+  border-radius: 32px/34.5px;
+  height: 69px;
+  left: 587px;
+  position: absolute;
+  top: 166px;
+  width: 64px;
+}
+
+.subtract {
+  height: 498px;
+  left: 1759px;
+  position: absolute;
+  top: 2px;
+  width: 352px;
+}
+
+.frame-127 {
+  display: flex;
+  height: 374px;
+  left: 1874px;
+  position: absolute;
+  top: 655px;
+  width: 345px;
+}
+
+.polygon-1 {
+  height: 155.7px;
+  margin-left: 86.1px;
+  margin-top: 91.3px;
+  width: 150.89px;
+}
+
+.frame-128 {
+  display: flex;
+  height: 367px;
+  left: 1826px;
+  position: absolute;
+  top: 593px;
+  width: 338px;
+}
+
+.polygon-2 {
+  height: 217.95px;
+  margin-left: 85.8px;
+  margin-top: 91.0px;
+  width: 199.22px;
+}
+
+.group-88 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 47px;
+  left: 1010px;
+  min-width: 231px;
+  position: absolute;
+  top: 704px;
+}
+
+.overlap-group {
+  height: 47px;
+  position: relative;
+  width: 229px;
+}
+
+.frame-1 {
+  background-color: var(--login);
+  border-radius: 6px;
+  cursor: pointer;
+  height: 47px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease-in;
+  width: 228px;
+}
+
+.frame-1:hover,
+.login:hover,
+.frame-2:hover {
+  transform: scale(1.1);
+}
+
+.login {
+  cursor: pointer;
+  height: 47px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 25.9px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  transition: all 0.2s ease-in;
+  width: 228px;
+}
+
+.overlap-group1 {
+  height: 47px;
+  left: 1433px;
+  position: absolute;
+  top: 704px;
+  width: 228px;
+}
+
+.frame-2 {
+  background-color: var(--login);
+  border-radius: 6px;
+  cursor: pointer;
+  height: 47px;
+  left: 7px;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease-in;
+  width: 213px;
+}
+
+.frame-126 {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 172px;
+  left: 1096px;
+  position: absolute;
+  top: 186px;
+  width: 323px;
+}
+

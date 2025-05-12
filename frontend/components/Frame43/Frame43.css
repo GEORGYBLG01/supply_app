@@ -1,0 +1,74 @@
+.frame-4-60 {
+  align-items: center;
+  background-color: var(--rum-swizzle-2);
+  border-radius: 10px;
+  box-shadow: 0px 4px 11px #1e454945;
+  display: flex;
+  gap: 24px;
+  height: 36px;
+  justify-content: center;
+  padding: 15px;
+  position: relative;
+  width: 43px;
+}
+
+.place-251 {
+  color: var(--tropical-rain-forest);
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: -6.43px;
+  margin-left: -4.18px;
+  margin-right: -4.18px;
+  margin-top: -8.43px;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-4-60.frame-4-61,
+.frame-4-60.frame-4-61-1,
+.frame-4-60.frame-4-65,
+.frame-4-60.frame-4-65-1 {
+  left: 62px;
+  position: absolute;
+  top: 0;
+  width: 42px;
+}
+
+.frame-4-60.frame-4-61-1 .place-251,
+.frame-4-60.frame-4-63-1 .place-251,
+.frame-4-60.frame-4-65-1 .place-251,
+.frame-4-60.frame-4-61 .place-251,
+.frame-4-60.frame-4-63 .place-251,
+.frame-4-60.frame-4-65 .place-251 {
+  margin-bottom: -6.50px;
+  margin-left: -4.39px;
+  margin-right: -4.39px;
+  margin-top: -8.50px;
+}
+
+.frame-4-60.frame-4-63,
+.frame-4-60.frame-4-63-1 {
+  width: 42px;
+}
+
+.frame-4-60.frame-4-67,
+.frame-4-60.frame-4-67-1,
+.frame-4-60.frame-4-67-2 {
+  height: 37px;
+}
+
+.frame-4-60.frame-4-67-1 .place-251,
+.frame-4-60.frame-4-67-2 .place-251,
+.frame-4-60.frame-4-67 .place-251 {
+  margin-bottom: -6.25px;
+  margin-top: -8.25px;
+}
+
+.frame-4-60.frame-4-66-1 .place-251,
+.frame-4-60.frame-4-66-2 .place-251,
+.frame-4-60.frame-4-66-3 .place-251,
+.frame-4-60.frame-4-66 .place-251 {
+  margin-bottom: -6.58px;
+  margin-top: -8.58px;
+}
+

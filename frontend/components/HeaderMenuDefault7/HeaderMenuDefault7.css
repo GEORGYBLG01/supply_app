@@ -1,0 +1,25 @@
+.menu-item-default-41,
+.menu-item-default-43,
+.menu-item-default-44 {
+  align-items: center;
+  background-color: var(--tropical-rain-forest);
+  border-radius: 6px;
+  box-shadow: 0px 4px 4px #00000040;
+  cursor: pointer;
+  display: flex;
+  gap: 12.95px;
+  height: 37px;
+  justify-content: center;
+  position: relative;
+  width: 138px;
+}
+
+.label-171,
+.label-173,
+.label-175 {
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  width: fit-content;
+}
+

@@ -1,0 +1,37 @@
+.frame-115-96,
+.frame-115-97,
+.frame-115-98,
+.frame-115-99 {
+  align-items: center;
+  border-radius: 6px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  justify-content: center;
+  padding: 15px;
+  position: relative;
+  transition: all 0.2s ease-in;
+  width: fit-content;
+}
+
+.frame-115-96:hover,
+.frame-115-97:hover,
+.frame-115-98:hover,
+.frame-115-99:hover {
+  transform: scale(1.1);
+}
+
+.new-case-1,
+.new-case-2,
+.new-case-3,
+.new-case-4 {
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+

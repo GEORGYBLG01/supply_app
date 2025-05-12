@@ -1,0 +1,86 @@
+.beautifulpage {
+  margin: 0px;
+  padding: 0px;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 10%;
+  background-color: beige;
+  min-height: 80px;
+  box-shadow: 2px 6px grey;
+}
+.nav_links {
+  list-style: none;
+  font-size: larger;
+}
+.nav_links li {
+  display: inline-block;
+  padding: 0px 30px;
+}
+.nav_links li a {
+  transition: all 0.3s ease 0s;
+  text-decoration: none;
+  color: grey;
+}
+
+.nav_links li a:hover {
+  color: white;
+  font-size: larger;
+  border: 2px solid rgba(0, 128, 0, 0.747);
+  border-radius: 5px;
+  padding: 5px;
+  background-color: rgba(0, 128, 0, 0.747);
+}
+.nav_links li a:active {
+  color: red;
+  font-size: larger;
+}
+
+.button {
+  margin: 30px 25px;
+  float: right;
+}
+
+.body {
+  margin-top: 100px;
+  display: flex;
+  padding: 10px 20px;
+}
+.picture {
+  float: left;
+  height: 3cm;
+  width: 8cm;
+  padding-right: 50px;
+}
+.data {
+  float: right;
+  height: 2cm;
+  width: 15cm;
+  padding-left: 50px;
+}
+.result-box {
+  margin-bottom: 20px;
+  border: 1px solid #ddd; /* Add border for the box */
+  padding: 10px;
+  overflow: auto; /* Enable scrolling */
+  max-height: 200px; /* Set the maximum height for the box */
+}
+
+.scrollable-container {
+  overflow: auto;
+  max-height: 150px; /* Set the maximum height for the scrollable container */
+}
+
+.result-item {
+  margin-bottom: 10px;
+}
+
+.result-box {
+  margin-bottom: 500px; /* Ajout d'un espace entre les résultats */
+}
+
+.result-item {
+  margin-bottom: 10px; /* Espace entre chaque élément de résultat */
+}

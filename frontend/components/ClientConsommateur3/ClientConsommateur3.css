@@ -1,0 +1,275 @@
+.client-consommateur-3 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 900px;
+  width: 1530px;
+}
+
+.overlap-group-86 {
+  height: 251px;
+  position: relative;
+  width: 1530px;
+}
+
+.rectangle-3-31 {
+  background-color: var(--rum-swizzle);
+  border-radius: 41px 0px 100px 118px;
+  height: 180px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1530px;
+}
+
+.x1200px-logo_icam_-_2008-1-86 {
+  cursor: pointer;
+  height: 74px;
+  left: 72px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 144px;
+}
+
+.please-answer-the-following-questions-31 {
+  height: 97px;
+  left: 467px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 154px;
+  width: 577px;
+}
+
+.emploirelation-employeur-employ-15 {
+  align-items: center;
+  display: flex;
+  gap: 88px;
+  margin-right: 9px;
+  margin-top: 67px;
+  position: relative;
+  width: 1458px;
+}
+
+.emploi-relation-employeur-employ-1-12 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  position: relative;
+  width: 383px;
+}
+
+.do-you-do-reviews-1 {
+  background-color: transparent;
+  border: 0;
+  color: var(--white-lilac);
+  font-weight: 400;
+  height: 35px;
+  line-height: normal;
+  margin-left: -18.50px;
+  margin-right: -18.50px;
+  min-width: 420px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.do-you-do-reviews-1::placeholder,
+.do-you-have-a-review-2::placeholder,
+.do-you-have-a-review-3::placeholder {
+  color: #f7f9fb99;
+}
+
+.in-paper-format-3 {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 32px;
+  line-height: normal;
+  margin-left: -18.00px;
+  margin-right: -18.00px;
+  min-width: 419px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.in-paper-format-3::placeholder,
+.in-digital-format-3::placeholder,
+.in-paper-format-4::placeholder,
+.in-digital-format-4::placeholder,
+.in-paper-format-5::placeholder,
+.in-digital-format-5::placeholder {
+  color: #ffffff99;
+}
+
+.in-digital-format-3 {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 24px;
+  line-height: normal;
+  margin-left: -9.50px;
+  margin-right: -9.50px;
+  min-width: 402px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.emploi-relation-employeur-employ-3-4 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  position: relative;
+  width: fit-content;
+}
+
+.do-you-have-a-review-2 {
+  background-color: transparent;
+  border: 0;
+  color: var(--white-lilac);
+  font-weight: 400;
+  height: 77px;
+  line-height: normal;
+  min-width: 383px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.in-paper-format-4 {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 22px;
+  line-height: normal;
+  min-width: 351px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.in-digital-format-4 {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 27px;
+  line-height: normal;
+  min-width: 331px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.emploi-relation-employeur-employ-2-13 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  margin-right: -11.00px;
+  position: relative;
+  width: 527px;
+}
+
+.do-you-have-a-review-3 {
+  background-color: transparent;
+  border: 0;
+  color: var(--white-lilac);
+  font-weight: 400;
+  height: 42px;
+  line-height: normal;
+  min-width: 506px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.in-paper-format-5 {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 21px;
+  line-height: normal;
+  min-width: 123px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.in-digital-format-5 {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 21px;
+  line-height: normal;
+  margin-left: -9.50px;
+  margin-right: -9.50px;
+  min-width: 546px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.flex-row-153 {
+  align-items: flex-start;
+  display: flex;
+  gap: 459px;
+  height: 74px;
+  margin-right: 51px;
+  margin-top: 138px;
+  min-width: 822px;
+  position: relative;
+}
+
+.frame-113-69 {
+  align-items: center;
+  background-color: var(--rum-swizzle);
+  border-radius: 40px;
+  box-shadow: 0px 4px 11px #1e454945;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  justify-content: center;
+  padding: 15px;
+  position: relative;
+  transition: all 0.2s ease-in;
+  width: fit-content;
+}
+
+.frame-113-69:hover {
+  transform: scale(1.1);
+}
+
+.go-on-to-the-next-step-1 {
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+

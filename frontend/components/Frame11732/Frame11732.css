@@ -1,0 +1,80 @@
+.frame-112 {
+  align-items: center;
+  background-color: var(--rum-swizzle);
+  border-radius: 40px;
+  box-shadow: 0px 4px 11px #1e454945;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  justify-content: center;
+  padding: 15px;
+  position: relative;
+  transition: all 0.2s ease-in;
+  width: fit-content;
+}
+
+.frame-112:hover {
+  transform: scale(1.1);
+}
+
+.next {
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame-112.frame-116-157 {
+  left: 605px;
+  position: absolute;
+  top: 588px;
+}
+
+.frame-112.frame-117-75 {
+  left: 616px;
+  position: absolute;
+  top: 586px;
+}
+
+.frame-112.frame-113-49,
+.frame-112.frame-116-159 {
+  align-self: flex-end;
+}
+
+.frame-112.frame-113-50,
+.frame-112.frame-113-52,
+.frame-112.frame-113-53,
+.frame-112.frame-113-56 {
+  left: 1392px;
+  position: absolute;
+  top: 842px;
+}
+
+.frame-112.frame-116-158 {
+  left: 1400px;
+  position: absolute;
+  top: 841px;
+}
+
+.frame-112.frame-116-160 {
+  left: 1335px;
+  position: absolute;
+  top: 584px;
+}
+
+.frame-112.frame-116-161 {
+  left: 1351px;
+  position: absolute;
+  top: 642px;
+}
+
+.frame-112.frame-116-162 {
+  left: 1408px;
+  position: absolute;
+  top: 842px;
+}
+

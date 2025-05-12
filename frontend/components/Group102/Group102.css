@@ -1,0 +1,181 @@
+.group-23 {
+  display: flex;
+  flex-direction: column;
+  gap: 17.7px;
+  height: 32.82px;
+  min-width: 570px;
+  position: relative;
+}
+
+.tap-here-7 {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 12.79px;
+  line-height: normal;
+  opacity: 0.5;
+  padding: 0;
+  white-space: nowrap;
+  width: 563px;
+}
+
+.tap-here-7::placeholder {
+  color: #ffffff99;
+}
+
+.line-24 {
+  height: 1.14px;
+  margin-left: 0;
+  width: 568px;
+}
+
+.group-23.group-3-2 .line-24,
+.group-23.group-6-2 .line-24,
+.group-23.group-8-6 .line-24,
+.group-23.group-11-1 .line-24,
+.group-23.group-12-6 .line-24,
+.group-23.group-13-1 .line-24,
+.group-23.group-14-2 .line-24,
+.group-23.group-16-1 .line-24,
+.group-23.group-18-1 .line-24,
+.group-23.group-3-3 .line-24,
+.group-23.group-3-4 .line-24,
+.group-23.group-3-5 .line-24,
+.group-23.group-3-6 .line-24,
+.group-23.group-3-7 .line-24,
+.group-23.group-3-8 .line-24,
+.group-23.group-3 .line-24,
+.group-23.group-6-3 .line-24,
+.group-23.group-6-4 .line-24,
+.group-23.group-6-5 .line-24,
+.group-23.group-6-6 .line-24,
+.group-23.group-6 .line-24,
+.group-23.group-8-7 .line-24,
+.group-23.group-8 .line-24,
+.group-23.group-11-2 .line-24,
+.group-23.group-11-3 .line-24,
+.group-23.group-11-4 .line-24,
+.group-23.group-11 .line-24,
+.group-23.group-12 .line-24,
+.group-23.group-13 .line-24,
+.group-23.group-14-3 .line-24,
+.group-23.group-14-4 .line-24,
+.group-23.group-14-5 .line-24,
+.group-23.group-14-6 .line-24,
+.group-23.group-14-7 .line-24,
+.group-23.group-14-8 .line-24,
+.group-23.group-14 .line-24,
+.group-23.group-16-2 .line-24,
+.group-23.group-16-3 .line-24,
+.group-23.group-16-4 .line-24,
+.group-23.group-16-5 .line-24,
+.group-23.group-16 .line-24,
+.group-23.group-18-2 .line-24,
+.group-23.group-18-3 .line-24,
+.group-23.group-18-4 .line-24,
+.group-23.group-18-5 .line-24,
+.group-23.group-18 .line-24 {
+  height: 1.14px;
+}
+
+.group-23.group-7-1 .line-24,
+.group-23.group-10-6 .line-24,
+.group-23.group-15-1 .line-24,
+.group-23.group-17-1 .line-24,
+.group-23.group-7-5 .line-24,
+.group-23.group-7-6 .line-24,
+.group-23.group-7 .line-24,
+.group-23.group-10 .line-24,
+.group-23.group-15-4 .line-24,
+.group-23.group-15-5 .line-24,
+.group-23.group-15-6 .line-24,
+.group-23.group-15-9 .line-24,
+.group-23.group-15 .line-24,
+.group-23.group-17-4 .line-24,
+.group-23.group-17-5 .line-24,
+.group-23.group-17-6 .line-24,
+.group-23.group-17-9 .line-24,
+.group-23.group-17 .line-24 {
+  height: 1.14px;
+}
+
+.group-23.group-7-2 .line-24,
+.group-23.group-10-7 .line-24,
+.group-23.group-15-3 .line-24,
+.group-23.group-17-3 .line-24,
+.group-23.group-7-4 .line-24,
+.group-23.group-7-7 .line-24,
+.group-23.group-7-9 .line-24,
+.group-23.group-10-9 .line-24,
+.group-23.group-15-8 .line-24,
+.group-23.group-17-8 .line-24 {
+  height: 1.14px;
+}
+
+.group-23.group-7-3 .line-24,
+.group-23.group-7-8 .line-24 {
+  height: 1.14px;
+}
+
+.group-23.group-8-1 .line-24,
+.group-23.group-12-3 .line-24,
+.group-23.group-8-2 .line-24,
+.group-23.group-12-4 .line-24,
+.group-23.group-12-5 .line-24 {
+  width: 568px;
+}
+
+.group-23.group-8-3 .line-24,
+.group-23.group-12-1 .line-24,
+.group-23.group-8-4 .line-24,
+.group-23.group-8-5 .line-24,
+.group-23.group-12-2 .line-24 {
+  height: 1.14px;
+  width: 568px;
+}
+
+.group-23.group-10-1 .line-24,
+.group-23.group-10-5 .line-24 {
+  height: 1.14px;
+  width: 568px;
+}
+
+.group-23.group-10-2 .line-24,
+.group-23.group-10-4 .line-24 {
+  height: 1.14px;
+  width: 568px;
+}
+
+.group-23.group-10-3 .line-24 {
+  height: 1.14px;
+  width: 568px;
+}
+
+.group-23.group-10-8 .line-24 {
+  height: 1.14px;
+}
+
+.group-23.group-15-2 .line-24,
+.group-23.group-17-2 .line-24,
+.group-23.group-15-7 .line-24,
+.group-23.group-17-7 .line-24 {
+  height: 1.14px;
+}
+
+.group-23.group-21-1 .line-24,
+.group-23.group-21-2 .line-24,
+.group-23.group-21-3 .line-24,
+.group-23.group-21-4 .line-24,
+.group-23.group-21 .line-24 {
+  width: 568px;
+}
+
+.group-23.group-22-2 .line-24,
+.group-23.group-22-3 .line-24,
+.group-23.group-22-4 .line-24,
+.group-23.group-22-5 .line-24,
+.group-23.group-22 .line-24 {
+  width: 568px;
+}
+

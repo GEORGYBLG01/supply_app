@@ -1,0 +1,50 @@
+.key {
+  align-items: flex-start;
+  background-color: var(--white-3);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: -30.27px;
+  opacity: 0;
+  padding: 6.5px;
+  position: relative;
+  width: fit-content;
+}
+
+.field-extra {
+  letter-spacing: 0;
+  line-height: 13.0px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.key.key-2,
+.key.key-3,
+.key.key-4,
+.key.key-5,
+.key.key-7,
+.key.key-8,
+.key.key-9,
+.key.key-10,
+.key.key-11,
+.key.key-14,
+.key.key-15,
+.key.key-16,
+.key.key-17,
+.key.key-19,
+.key.key-20,
+.key.key-21,
+.key.key-22,
+.key.key-23 {
+  margin-bottom: -16.44px;
+}
+
+.key.key-6,
+.key.key-18 {
+  margin-bottom: -17.00px;
+  margin-right: -40.00px;
+}
+

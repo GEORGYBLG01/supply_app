@@ -1,0 +1,163 @@
+.quality-2 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 900px;
+  width: 1530px;
+}
+
+.overlap-group-44 {
+  align-items: flex-start;
+  background-color: var(--rum-swizzle);
+  border-radius: 41px 0px 100px 118px;
+  display: flex;
+  gap: 329px;
+  height: 167px;
+  justify-content: flex-end;
+  min-width: 1530px;
+  padding: 10px 59px;
+}
+
+.x1200px-logo_icam_-_2008-1-43 {
+  cursor: pointer;
+  height: 74px;
+  margin-top: 10px;
+  object-fit: cover;
+  width: 144px;
+}
+
+.nav-items-container-20 {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  min-height: 128px;
+  position: relative;
+  width: 926px;
+}
+
+.emploirelation-employeur-employ-10 {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  gap: 88px;
+  justify-content: center;
+  margin-left: 8.0px;
+  margin-top: 166px;
+  position: relative;
+  width: 1484px;
+}
+
+.emploi-relation-employeur-employ-6 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  position: relative;
+  width: fit-content;
+}
+
+.do-you-have-a-custom {
+  background-color: transparent;
+  border: 0;
+  color: var(--white-lilac);
+  font-weight: 400;
+  height: 35px;
+  line-height: normal;
+  min-width: 420px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.do-you-have-a-custom::placeholder,
+.do-you-communicate-t::placeholder {
+  color: #f7f9fb99;
+}
+
+.is-it-below-30 {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 32px;
+  line-height: normal;
+  min-width: 419px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.is-it-below-30::placeholder,
+.is-it::placeholder,
+.does-the-manager-ens::placeholder {
+  color: #ffffff99;
+}
+
+.is-it {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 24px;
+  line-height: normal;
+  min-width: 402px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.emploi-relation-employeur-employ-2-8 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  position: relative;
+  width: fit-content;
+}
+
+.does-the-manager-ens {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 38px;
+  line-height: normal;
+  min-width: 406px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.do-you-communicate-t {
+  background-color: transparent;
+  border: 0;
+  color: var(--white-lilac);
+  font-weight: 400;
+  height: 77px;
+  line-height: normal;
+  min-width: 323px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.flex-row-90 {
+  align-items: flex-start;
+  display: flex;
+  gap: 537px;
+  height: 60px;
+  margin-right: 126px;
+  margin-top: 137px;
+  min-width: 744px;
+  position: relative;
+}
+

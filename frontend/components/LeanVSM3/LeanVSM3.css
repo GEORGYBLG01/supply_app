@@ -1,0 +1,200 @@
+.lean-vsm-3-1 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 900px;
+  width: 1530px;
+}
+
+.overlap-group1-48 {
+  align-items: flex-start;
+  background-color: var(--rum-swizzle);
+  border-radius: 41px 0px 100px 118px;
+  display: flex;
+  gap: 329px;
+  height: 180px;
+  justify-content: flex-end;
+  margin-right: 1.0px;
+  min-width: 1529px;
+  padding: 20px 58px;
+}
+
+.x1200px-logo_icam_-_2008-1-72 {
+  cursor: pointer;
+  height: 74px;
+  object-fit: cover;
+  width: 144px;
+}
+
+.nav-items-container-38 {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  margin-bottom: 2px;
+  min-height: 128px;
+  position: relative;
+  width: 926px;
+}
+
+.overlap-group2-24 {
+  height: 702px;
+  margin-left: 22.0px;
+  position: relative;
+  width: 1440px;
+}
+
+.overlap-group3-22 {
+  height: 690px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.overlap-group-73 {
+  height: 660px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.please-answer-the-following-questions-28 {
+  height: 50px;
+  left: 421px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 577px;
+}
+
+.frame-93-3 {
+  align-items: flex-start;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  height: 633px;
+  justify-content: center;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 27px;
+  width: 651px;
+}
+
+.a-quelle-frquence-re-9 {
+  background-color: transparent;
+  border: 0;
+  color: var(--inter);
+  font-weight: 400;
+  height: 22px;
+  line-height: normal;
+  min-width: 568px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+}
+
+.a-quelle-frquence-re-9::placeholder,
+.combien-de-temps-en-9::placeholder,
+.vous-9::placeholder,
+.x-19::placeholder,
+.dans-quel-rayon-se-situe-vos-clients-10::placeholder,
+.a-quelle-frquence-ef::placeholder,
+.quel-est-votre-taux-de-service::placeholder,
+.quel-est-votre-taux-de-retard-10::placeholder,
+.x-20::placeholder {
+  color: #9f9f9f99;
+}
+
+.combien-de-temps-en-9,
+.a-quelle-frquence-ef,
+.quel-est-votre-taux-de-service {
+  background-color: transparent;
+  border: 0;
+  color: var(--inter);
+  font-weight: 400;
+  height: 21px;
+  line-height: normal;
+  min-width: 563px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+}
+
+.vous-9 {
+  background-color: transparent;
+  border: 0;
+  color: var(--inter);
+  font-weight: 400;
+  height: 22px;
+  line-height: normal;
+  min-width: 563px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+}
+
+.x-19,
+.dans-quel-rayon-se-situe-vos-clients-10 {
+  background-color: transparent;
+  border: 0;
+  color: var(--inter);
+  font-weight: 400;
+  height: 21px;
+  line-height: normal;
+  min-width: 568px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+}
+
+.frame-94-3 {
+  align-items: flex-start;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  height: 594px;
+  justify-content: center;
+  left: 741px;
+  overflow: hidden;
+  position: absolute;
+  top: 47px;
+  width: 699px;
+}
+
+.quel-est-votre-taux-de-retard-10 {
+  background-color: transparent;
+  border: 0;
+  color: var(--inter);
+  font-weight: 400;
+  height: 21px;
+  line-height: normal;
+  min-width: 616px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+}
+
+.x-20 {
+  background-color: transparent;
+  border: 0;
+  color: var(--inter);
+  font-weight: 400;
+  height: 21.42px;
+  line-height: normal;
+  min-width: 641.36px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+}
+

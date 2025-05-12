@@ -1,0 +1,178 @@
+.smed-2-1 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  height: 900px;
+  width: 1530px;
+}
+
+.flex-col-46 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  min-height: 241px;
+  width: 1530px;
+}
+
+.overlap-group-20 {
+  align-items: flex-start;
+  background-color: var(--rum-swizzle);
+  border-radius: 41px 0px 100px 118px;
+  display: flex;
+  gap: 409px;
+  height: 180px;
+  justify-content: flex-end;
+  min-width: 1530px;
+  padding: 20px 61px;
+}
+
+.x1200px-logo_icam_-_2008-1-20 {
+  cursor: pointer;
+  height: 74px;
+  object-fit: cover;
+  width: 144px;
+}
+
+.nav-items-container-6 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  min-height: 131px;
+  width: 844px;
+}
+
+.nav-items-3-66 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  gap: 60px;
+  height: 48px;
+  justify-content: center;
+  position: relative;
+  transition: all 0.2s ease-in;
+  width: 795px;
+}
+
+.nav-items-3-66:hover,
+.nav-items-2-34:hover {
+  transform: translate(0, -5px);
+}
+
+.frame-2-17 {
+  align-items: center;
+  border-radius: 6px;
+  cursor: pointer;
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+  padding: 9px;
+  position: relative;
+  width: fit-content;
+}
+
+.label-128 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 25.9px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.nav-items-2-34 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  gap: 60px;
+  height: 48px;
+  justify-content: center;
+  position: relative;
+  transition: all 0.2s ease-in;
+  width: 844px;
+}
+
+.frame-113-48 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 6px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  justify-content: center;
+  padding: 15px;
+  position: relative;
+  transition: all 0.2s ease-in;
+  width: fit-content;
+}
+
+.frame-113-48:hover,
+.frame-115-116:hover {
+  transform: scale(1.1);
+}
+
+.aquisition-90,
+.analysis-90 {
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame-115-116 {
+  align-items: center;
+  border-radius: 6px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  justify-content: center;
+  padding: 15px;
+  position: relative;
+  transition: all 0.2s ease-in;
+  width: fit-content;
+}
+
+.please-answer-the-following-questions-1 {
+  height: 57px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1.0px;
+  text-align: center;
+  width: 577px;
+}
+
+.flex-row-67 {
+  align-items: flex-start;
+  display: flex;
+  gap: 24px;
+  height: 647px;
+  margin-left: 17.0px;
+  min-width: 1419px;
+}
+
+.flex-col-47 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  min-height: 647px;
+  position: relative;
+  width: 718px;
+}
+
+.frame-container-9 {
+  height: 636px;
+  margin-top: 1px;
+  position: relative;
+  width: 677px;
+}
+

@@ -1,0 +1,82 @@
+.table-number-base,
+.table-number-base-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+  min-width: 121.9px;
+}
+
+.overlap-group1-2,
+.overlap-group1-3 {
+  height: 10px;
+  margin-top: 0;
+  position: relative;
+  width: 123px;
+}
+
+.field,
+.field-1 {
+  align-items: flex-start;
+  background-color: var(--graye);
+  display: flex;
+  gap: 15px;
+  height: 10px;
+  left: 0;
+  padding: 7px 10px;
+  position: absolute;
+  top: 0;
+  width: 122px;
+}
+
+.null,
+.null-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 18.2px;
+  margin-bottom: -5.27px;
+  opacity: 0;
+  position: relative;
+  white-space: nowrap;
+  width: 35px;
+}
+
+.line-container,
+.line-container-1 {
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 123px;
+}
+
+.bottom-line,
+.bottom-line-1 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 122px;
+}
+
+.left-line,
+.left-line-1 {
+  height: 9px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.right-line,
+.right-line-1 {
+  height: 9px;
+  left: 122px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+

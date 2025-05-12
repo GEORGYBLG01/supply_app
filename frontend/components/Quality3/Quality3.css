@@ -1,0 +1,193 @@
+.quality-3 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 900px;
+  width: 1530px;
+}
+
+.overlap-group-75 {
+  align-items: flex-start;
+  background-color: var(--rum-swizzle);
+  border-radius: 41px 0px 100px 118px;
+  display: flex;
+  gap: 329px;
+  height: 167px;
+  justify-content: flex-end;
+  min-width: 1530px;
+  padding: 10px 59px;
+}
+
+.x1200px-logo_icam_-_2008-1-75 {
+  cursor: pointer;
+  height: 74px;
+  margin-top: 10px;
+  object-fit: cover;
+  width: 144px;
+}
+
+.nav-items-container-40 {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  min-height: 128px;
+  position: relative;
+  width: 926px;
+}
+
+.emploirelation-employeur-employ-12 {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  gap: 88px;
+  margin-left: 32.0px;
+  margin-top: 119px;
+  padding: 29px 125px;
+  position: relative;
+  width: fit-content;
+}
+
+.emploi-relation-employeur-employ-1-9 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  position: relative;
+  width: fit-content;
+}
+
+.do-you-communicate-t-1 {
+  background-color: transparent;
+  border: 0;
+  color: var(--white-lilac);
+  font-weight: 400;
+  height: 35px;
+  line-height: normal;
+  min-width: 420px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.do-you-communicate-t-1::placeholder {
+  color: #f7f9fb99;
+}
+
+.do-you-have-objectiv {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 32px;
+  line-height: normal;
+  min-width: 419px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.do-you-have-objectiv::placeholder,
+.do-you-7::placeholder,
+.do-you-have-2::placeholder,
+.do-you-organise-trai::placeholder {
+  color: #ffffff99;
+}
+
+.do-you-7 {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 45px;
+  line-height: normal;
+  min-width: 402px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.emploi-relation-employeur-employ-2-10 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  position: relative;
+  width: fit-content;
+}
+
+.do-you-have-2 {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 24px;
+  line-height: normal;
+  min-width: 402px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.do-you-organise-trai {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 38px;
+  line-height: normal;
+  min-width: 406px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.flex-row-143 {
+  align-items: flex-start;
+  display: flex;
+  gap: 495px;
+  height: 60px;
+  margin-right: 168px;
+  margin-top: 21px;
+  min-width: 702px;
+  position: relative;
+}
+
+.frame-113-67 {
+  align-items: center;
+  background-color: var(--rum-swizzle);
+  border-radius: 40px;
+  box-shadow: 0px 4px 11px #1e454945;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  justify-content: center;
+  padding: 15px;
+  position: relative;
+  transition: all 0.2s ease-in;
+  width: fit-content;
+}
+
+.frame-113-67:hover {
+  transform: scale(1.1);
+}
+
+.next-36 {
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+

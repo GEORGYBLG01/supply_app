@@ -1,0 +1,66 @@
+.pricing-3 {
+  align-items: center;
+  background: linear-gradient(180deg, rgb(0, 115, 103) 11.46%, rgb(0, 115, 103) 89.58%);
+  border-radius: 15px;
+  box-shadow: 0px 0px 36px #0000001a;
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  margin-left: 78px;
+  padding: 21px 14px;
+  position: relative;
+  width: fit-content;
+}
+
+.cost {
+  height: 24.2px;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: 252px;
+}
+
+.x25-4 {
+  background-color: transparent;
+  border: 0;
+  height: 60px;
+  letter-spacing: 0;
+  line-height: 60px;
+  min-width: 171px;
+  padding: 0;
+  position: relative;
+  white-space: nowrap;
+}
+
+.x25-4::placeholder {
+  color: #f7f6e699;
+}
+
+.line-21-2 {
+  height: 1px;
+  min-width: 232.5px;
+  object-fit: cover;
+  position: relative;
+}
+
+.pricing-3.pricing-8,
+.pricing-3.pricing-8-1,
+.pricing-3.pricing-8-2 {
+  align-self: flex-end;
+}
+
+.pricing-3.pricing-5,
+.pricing-3.pricing-5-1,
+.pricing-3.pricing-5-2 {
+  margin-left: unset;
+}
+
+.pricing-3.pricing-7,
+.pricing-3.pricing-7-1,
+.pricing-3.pricing-7-2 {
+  margin-left: 112px;
+}
+

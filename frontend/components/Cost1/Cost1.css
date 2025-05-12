@@ -1,0 +1,243 @@
+.cost-1-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 900px;
+  overflow: hidden;
+  width: 1530px;
+}
+
+.overlap-group-31 {
+  height: 274px;
+  position: relative;
+  width: 1531px;
+}
+
+.rectangle-3-13 {
+  background-color: var(--rum-swizzle);
+  border-radius: 41px 0px 100px 118px;
+  height: 180px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1531px;
+}
+
+.x1200px-logo_icam_-_2008-1-31 {
+  cursor: pointer;
+  height: 74px;
+  left: 73px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 144px;
+}
+
+.please-answer-the-following-questions-10 {
+  height: 97px;
+  left: 464px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 177px;
+  width: 577px;
+}
+
+.emploirelation-employeur-employ-4 {
+  align-items: center;
+  display: flex;
+  gap: 88px;
+  margin-top: 18px;
+  position: relative;
+  width: 1526px;
+}
+
+.emploi-relation-employeur-employ-4 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  position: relative;
+  width: fit-content;
+}
+
+.do-you-have-a-follow {
+  background-color: transparent;
+  border: 0;
+  color: var(--white-lilac);
+  font-weight: 400;
+  height: 35px;
+  line-height: normal;
+  min-width: 420px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.do-you-have-a-follow::placeholder,
+.do-you-analyse-stock-data-in-real-time::placeholder,
+.do-you-know-your-market::placeholder {
+  color: #f7f9fb99;
+}
+
+.do-you-have-a-current-average-cost-price {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 32px;
+  line-height: normal;
+  min-width: 419px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.do-you-have-a-current-average-cost-price::placeholder,
+.x-you::placeholder,
+.do-you-have-a-roundi::placeholder,
+.in-case-of-shortage::placeholder,
+.calculation-of-the-cost-of-the-stock::placeholder,
+.have-you-defined-your-market-share::placeholder,
+.do-you::placeholder {
+  color: #ffffff99;
+}
+
+.x-you {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 24px;
+  line-height: normal;
+  min-width: 402px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.do-you-analyse-stock-data-in-real-time {
+  background-color: transparent;
+  border: 0;
+  color: var(--white-lilac);
+  font-weight: 400;
+  height: 51px;
+  line-height: normal;
+  min-width: 323px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.do-you-have-a-roundi {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 36px;
+  line-height: normal;
+  min-width: 351px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.in-case-of-shortage {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 41px;
+  line-height: normal;
+  min-width: 331px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.calculation-of-the-cost-of-the-stock {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 30px;
+  line-height: normal;
+  min-width: 331px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.emploi-relation-employeur-employ-2-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  margin-right: -51.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.do-you-know-your-market {
+  background-color: transparent;
+  border: 0;
+  color: var(--white-lilac);
+  font-weight: 400;
+  height: 21px;
+  line-height: normal;
+  min-width: 630px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.have-you-defined-your-market-share {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 21px;
+  line-height: normal;
+  min-width: 270px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.do-you {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 21px;
+  line-height: normal;
+  min-width: 583px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.flex-row-78 {
+  align-items: flex-start;
+  display: flex;
+  gap: 627px;
+  height: 60px;
+  margin-right: 75px;
+  margin-top: 9px;
+  min-width: 769px;
+  position: relative;
+}
+

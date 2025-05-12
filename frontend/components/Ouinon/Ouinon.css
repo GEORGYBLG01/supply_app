@@ -1,0 +1,491 @@
+.ouinon-45 {
+  align-items: flex-start;
+  display: flex;
+  gap: 28px;
+  min-width: 146px;
+}
+
+.frame-4-5 {
+  align-items: center;
+  background-color: var(--rum-swizzle);
+  border-radius: 10px;
+  box-shadow: 0px 4px 11px #1e454945;
+  display: flex;
+  gap: 24px;
+  height: 36px;
+  justify-content: center;
+  padding: 15px;
+  position: relative;
+  width: 59px;
+}
+
+.yes,
+.place-80 {
+  color: var(--tropical-rain-forest);
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: -6.50px;
+  margin-top: -8.50px;
+  position: relative;
+  width: fit-content;
+}
+
+.frame-4-6 {
+  align-items: center;
+  background-color: var(--rum-swizzle-2);
+  border-radius: 10px;
+  box-shadow: 0px 4px 11px #1e454945;
+  display: flex;
+  gap: 24px;
+  height: 36px;
+  justify-content: center;
+  padding: 15px;
+  position: relative;
+  width: 59px;
+}
+
+.ouinon-45.ouinon-22,
+.ouinon-45.ouinon-22-1,
+.ouinon-45.ouinon-22-2,
+.ouinon-45.ouinon-22-3,
+.ouinon-45.ouinon-23,
+.ouinon-45.ouinon-23-1,
+.ouinon-45.ouinon-23-2 {
+  align-items: unset;
+  display: unset;
+  gap: unset;
+  height: 36.66px;
+  min-width: 119.68px;
+  position: relative;
+}
+
+.ouinon-45.ouinon-22-1 .frame-4-5,
+.ouinon-45.ouinon-23-1 .frame-4-5,
+.ouinon-45.ouinon-22-2 .frame-4-5,
+.ouinon-45.ouinon-22-3 .frame-4-5,
+.ouinon-45.ouinon-22 .frame-4-5,
+.ouinon-45.ouinon-23-2 .frame-4-5,
+.ouinon-45.ouinon-23 .frame-4-5 {
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 48px;
+}
+
+.ouinon-45.ouinon-22-1 .yes,
+.ouinon-45.ouinon-22-2 .yes,
+.ouinon-45.ouinon-22-3 .yes,
+.ouinon-45.ouinon-22 .yes,
+.ouinon-45.ouinon-39 .yes,
+.ouinon-45.ouinon-40 .yes,
+.ouinon-45.ouinon-41 .yes,
+.ouinon-45.ouinon-23-1 .yes,
+.ouinon-45.ouinon-23-2 .yes,
+.ouinon-45.ouinon-23 .yes {
+  margin-bottom: -6.17px;
+  margin-left: -3.32px;
+  margin-right: -3.32px;
+  margin-top: -8.17px;
+}
+
+.ouinon-45.ouinon-22-1 .frame-4-6,
+.ouinon-45.ouinon-23-1 .frame-4-6,
+.ouinon-45.ouinon-22-2 .frame-4-6,
+.ouinon-45.ouinon-22-3 .frame-4-6,
+.ouinon-45.ouinon-22 .frame-4-6,
+.ouinon-45.ouinon-23-2 .frame-4-6,
+.ouinon-45.ouinon-23 .frame-4-6 {
+  height: 37px;
+  left: 71px;
+  position: absolute;
+  top: 0;
+  width: 48px;
+}
+
+.ouinon-45.ouinon-22-1 .place-80,
+.ouinon-45.ouinon-39 .place-80,
+.ouinon-45.ouinon-23-1 .place-80,
+.ouinon-45.ouinon-22-2 .place-80,
+.ouinon-45.ouinon-22-3 .place-80,
+.ouinon-45.ouinon-22 .place-80,
+.ouinon-45.ouinon-40 .place-80,
+.ouinon-45.ouinon-41 .place-80,
+.ouinon-45.ouinon-23-2 .place-80,
+.ouinon-45.ouinon-23 .place-80 {
+  margin-bottom: -6.17px;
+  margin-left: -1.32px;
+  margin-right: -1.32px;
+  margin-top: -8.17px;
+}
+
+.ouinon-45.ouinon-24,
+.ouinon-45.ouinon-24-1,
+.ouinon-45.ouinon-24-2,
+.ouinon-45.ouinon-24-3,
+.ouinon-45.ouinon-24-4,
+.ouinon-45.ouinon-24-5,
+.ouinon-45.ouinon-24-6,
+.ouinon-45.ouinon-24-7,
+.ouinon-45.ouinon-27,
+.ouinon-45.ouinon-27-1,
+.ouinon-45.ouinon-27-2,
+.ouinon-45.ouinon-27-3,
+.ouinon-45.ouinon-27-4,
+.ouinon-45.ouinon-27-5,
+.ouinon-45.ouinon-27-6,
+.ouinon-45.ouinon-27-7 {
+  align-items: unset;
+  display: unset;
+  gap: unset;
+  height: 36.66px;
+  min-width: 109.49px;
+  position: relative;
+}
+
+.ouinon-45.ouinon-24-1 .frame-4-5,
+.ouinon-45.ouinon-42 .frame-4-5,
+.ouinon-45.ouinon-43 .frame-4-5,
+.ouinon-45.ouinon-27-1 .frame-4-5,
+.ouinon-45.ouinon-24-2 .frame-4-5,
+.ouinon-45.ouinon-24-3 .frame-4-5,
+.ouinon-45.ouinon-24-4 .frame-4-5,
+.ouinon-45.ouinon-29 .frame-4-5,
+.ouinon-45.ouinon-24-5 .frame-4-5,
+.ouinon-45.ouinon-24-6 .frame-4-5,
+.ouinon-45.ouinon-24-7 .frame-4-5,
+.ouinon-45.ouinon-24 .frame-4-5,
+.ouinon-45.ouinon-27-2 .frame-4-5,
+.ouinon-45.ouinon-27-3 .frame-4-5,
+.ouinon-45.ouinon-27-4 .frame-4-5,
+.ouinon-45.ouinon-44 .frame-4-5,
+.ouinon-45.ouinon-27-5 .frame-4-5,
+.ouinon-45.ouinon-27-6 .frame-4-5,
+.ouinon-45.ouinon-27-7 .frame-4-5,
+.ouinon-45.ouinon-27 .frame-4-5 {
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 44px;
+}
+
+.ouinon-45.ouinon-24-1 .yes,
+.ouinon-45.ouinon-24-2 .yes,
+.ouinon-45.ouinon-24-3 .yes,
+.ouinon-45.ouinon-24-4 .yes,
+.ouinon-45.ouinon-29 .yes,
+.ouinon-45.ouinon-24-5 .yes,
+.ouinon-45.ouinon-24-6 .yes,
+.ouinon-45.ouinon-24-7 .yes,
+.ouinon-45.ouinon-24 .yes,
+.ouinon-45.ouinon-42 .yes,
+.ouinon-45.ouinon-43 .yes,
+.ouinon-45.ouinon-27-1 .yes,
+.ouinon-45.ouinon-27-2 .yes,
+.ouinon-45.ouinon-27-3 .yes,
+.ouinon-45.ouinon-27-4 .yes,
+.ouinon-45.ouinon-44 .yes,
+.ouinon-45.ouinon-27-5 .yes,
+.ouinon-45.ouinon-27-6 .yes,
+.ouinon-45.ouinon-27-7 .yes,
+.ouinon-45.ouinon-27 .yes {
+  margin-bottom: -6.17px;
+  margin-left: -5.38px;
+  margin-right: -5.38px;
+  margin-top: -8.17px;
+}
+
+.ouinon-45.ouinon-24-1 .frame-4-6,
+.ouinon-45.ouinon-42 .frame-4-6,
+.ouinon-45.ouinon-43 .frame-4-6,
+.ouinon-45.ouinon-27-1 .frame-4-6,
+.ouinon-45.ouinon-24-2 .frame-4-6,
+.ouinon-45.ouinon-24-3 .frame-4-6,
+.ouinon-45.ouinon-24-4 .frame-4-6,
+.ouinon-45.ouinon-29 .frame-4-6,
+.ouinon-45.ouinon-24-5 .frame-4-6,
+.ouinon-45.ouinon-24-6 .frame-4-6,
+.ouinon-45.ouinon-24-7 .frame-4-6,
+.ouinon-45.ouinon-24 .frame-4-6,
+.ouinon-45.ouinon-27-2 .frame-4-6,
+.ouinon-45.ouinon-27-3 .frame-4-6,
+.ouinon-45.ouinon-27-4 .frame-4-6,
+.ouinon-45.ouinon-44 .frame-4-6,
+.ouinon-45.ouinon-27-5 .frame-4-6,
+.ouinon-45.ouinon-27-6 .frame-4-6,
+.ouinon-45.ouinon-27-7 .frame-4-6,
+.ouinon-45.ouinon-27 .frame-4-6 {
+  height: 37px;
+  left: 65px;
+  position: absolute;
+  top: 0;
+  width: 44px;
+}
+
+.ouinon-45.ouinon-24-1 .place-80,
+.ouinon-45.ouinon-42 .place-80,
+.ouinon-45.ouinon-43 .place-80,
+.ouinon-45.ouinon-27-1 .place-80,
+.ouinon-45.ouinon-24-2 .place-80,
+.ouinon-45.ouinon-24-3 .place-80,
+.ouinon-45.ouinon-24-4 .place-80,
+.ouinon-45.ouinon-29 .place-80,
+.ouinon-45.ouinon-24-5 .place-80,
+.ouinon-45.ouinon-24-6 .place-80,
+.ouinon-45.ouinon-24-7 .place-80,
+.ouinon-45.ouinon-24 .place-80,
+.ouinon-45.ouinon-27-2 .place-80,
+.ouinon-45.ouinon-27-3 .place-80,
+.ouinon-45.ouinon-27-4 .place-80,
+.ouinon-45.ouinon-44 .place-80,
+.ouinon-45.ouinon-27-5 .place-80,
+.ouinon-45.ouinon-27-6 .place-80,
+.ouinon-45.ouinon-27-7 .place-80,
+.ouinon-45.ouinon-27 .place-80 {
+  margin-bottom: -6.17px;
+  margin-left: -3.38px;
+  margin-right: -3.38px;
+  margin-top: -8.17px;
+}
+
+.ouinon-45.ouinon-29,
+.ouinon-45.ouinon-44 {
+  height: 36.66px;
+  margin-bottom: -7.03px;
+  min-width: 109.49px;
+  position: relative;
+}
+
+.ouinon-45.ouinon-30 {
+  align-items: flex-start;
+  display: flex;
+  gap: 28px;
+  margin-left: 293px;
+  margin-top: 27px;
+  min-width: 146px;
+}
+
+.ouinon-45.ouinon-20 {
+  margin-left: 293px;
+  margin-top: 21px;
+}
+
+.ouinon-45.ouinon-21 {
+  margin-left: 243px;
+  margin-top: 12px;
+}
+
+.ouinon-45.ouinon-31 {
+  align-items: flex-start;
+  display: flex;
+  gap: 28px;
+  margin-left: 243px;
+  margin-top: 20px;
+  min-width: 146px;
+}
+
+.ouinon-45.ouinon-28,
+.ouinon-45.ouinon-28-1,
+.ouinon-45.ouinon-28-2,
+.ouinon-45.ouinon-28-3,
+.ouinon-45.ouinon-28-4,
+.ouinon-45.ouinon-28-5,
+.ouinon-45.ouinon-25,
+.ouinon-45.ouinon-25-1,
+.ouinon-45.ouinon-25-2,
+.ouinon-45.ouinon-26,
+.ouinon-45.ouinon-26-1,
+.ouinon-45.ouinon-26-2 {
+  align-items: unset;
+  display: unset;
+  gap: unset;
+  height: 37.38px;
+  min-width: 104.49px;
+  position: relative;
+}
+
+.ouinon-45.ouinon-28-1 .frame-4-5,
+.ouinon-45.ouinon-25-1 .frame-4-5,
+.ouinon-45.ouinon-26-1 .frame-4-5,
+.ouinon-45.ouinon-28-2 .frame-4-5,
+.ouinon-45.ouinon-28-3 .frame-4-5,
+.ouinon-45.ouinon-28-4 .frame-4-5,
+.ouinon-45.ouinon-28-5 .frame-4-5,
+.ouinon-45.ouinon-28 .frame-4-5,
+.ouinon-45.ouinon-25-2 .frame-4-5,
+.ouinon-45.ouinon-25 .frame-4-5,
+.ouinon-45.ouinon-26-2 .frame-4-5,
+.ouinon-45.ouinon-26 .frame-4-5 {
+  height: 37px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 42px;
+}
+
+.ouinon-45.ouinon-28-1 .yes,
+.ouinon-45.ouinon-28-2 .yes,
+.ouinon-45.ouinon-28-3 .yes,
+.ouinon-45.ouinon-28-4 .yes,
+.ouinon-45.ouinon-28-5 .yes,
+.ouinon-45.ouinon-28 .yes,
+.ouinon-45.ouinon-25-1 .yes,
+.ouinon-45.ouinon-25-2 .yes,
+.ouinon-45.ouinon-25 .yes,
+.ouinon-45.ouinon-26-1 .yes,
+.ouinon-45.ouinon-26-2 .yes,
+.ouinon-45.ouinon-26 .yes {
+  margin-bottom: -5.81px;
+  margin-left: -6.39px;
+  margin-right: -6.39px;
+  margin-top: -7.81px;
+}
+
+.ouinon-45.ouinon-28-1 .frame-4-6,
+.ouinon-45.ouinon-25-1 .frame-4-6,
+.ouinon-45.ouinon-26-1 .frame-4-6,
+.ouinon-45.ouinon-28-2 .frame-4-6,
+.ouinon-45.ouinon-28-3 .frame-4-6,
+.ouinon-45.ouinon-28-4 .frame-4-6,
+.ouinon-45.ouinon-28-5 .frame-4-6,
+.ouinon-45.ouinon-28 .frame-4-6,
+.ouinon-45.ouinon-25-2 .frame-4-6,
+.ouinon-45.ouinon-25 .frame-4-6,
+.ouinon-45.ouinon-26-2 .frame-4-6,
+.ouinon-45.ouinon-26 .frame-4-6 {
+  height: 37px;
+  left: 62px;
+  position: absolute;
+  top: 0;
+  width: 42px;
+}
+
+.ouinon-45.ouinon-28-1 .place-80,
+.ouinon-45.ouinon-25-1 .place-80,
+.ouinon-45.ouinon-26-1 .place-80,
+.ouinon-45.ouinon-28-2 .place-80,
+.ouinon-45.ouinon-28-3 .place-80,
+.ouinon-45.ouinon-28-4 .place-80,
+.ouinon-45.ouinon-28-5 .place-80,
+.ouinon-45.ouinon-28 .place-80,
+.ouinon-45.ouinon-25-2 .place-80,
+.ouinon-45.ouinon-25 .place-80,
+.ouinon-45.ouinon-26-2 .place-80,
+.ouinon-45.ouinon-26 .place-80 {
+  margin-bottom: -5.81px;
+  margin-left: -4.39px;
+  margin-right: -4.39px;
+  margin-top: -7.81px;
+}
+
+.ouinon-45.ouinon-32 {
+  align-items: flex-start;
+  display: flex;
+  gap: 28px;
+  margin-left: 277px;
+  margin-top: 12px;
+  min-width: 146px;
+}
+
+.ouinon-45.ouinon-33 {
+  align-items: flex-start;
+  display: flex;
+  gap: 28px;
+  margin-left: 277px;
+  margin-top: 21px;
+  min-width: 146px;
+}
+
+.ouinon-45.ouinon-34 {
+  align-items: flex-start;
+  display: flex;
+  gap: 28px;
+  margin-left: 299px;
+  margin-top: 12px;
+  min-width: 146px;
+}
+
+.ouinon-45.ouinon-35 {
+  align-items: flex-start;
+  display: flex;
+  gap: 28px;
+  margin-left: 299px;
+  margin-top: 64px;
+  min-width: 146px;
+}
+
+.ouinon-45.ouinon-36 {
+  align-items: flex-start;
+  display: flex;
+  gap: 28px;
+  height: 36px;
+  left: 1056px;
+  min-width: 146px;
+  position: absolute;
+  top: 332px;
+}
+
+.ouinon-45.ouinon-37 {
+  align-items: flex-start;
+  display: flex;
+  gap: 28px;
+  margin-top: 16px;
+  min-width: 146px;
+}
+
+.ouinon-45.ouinon-38 {
+  align-items: flex-start;
+  display: flex;
+  gap: 28px;
+  margin-top: 30px;
+  min-width: 146px;
+}
+
+.ouinon-45.ouinon-39 {
+  align-items: flex-start;
+  display: flex;
+  gap: 23px;
+  height: 36.66px;
+  margin-left: 235.6px;
+  margin-top: 16.6px;
+  min-width: 119.68px;
+}
+
+.ouinon-45.ouinon-39 .frame-4-5,
+.ouinon-45.ouinon-39 .frame-4-6,
+.ouinon-45.ouinon-40 .frame-4-5,
+.ouinon-45.ouinon-40 .frame-4-6,
+.ouinon-45.ouinon-41 .frame-4-5,
+.ouinon-45.ouinon-41 .frame-4-6 {
+  height: 37px;
+  width: 48px;
+}
+
+.ouinon-45.ouinon-40 {
+  align-items: flex-start;
+  display: flex;
+  gap: 23px;
+  height: 36.66px;
+  margin-left: 235.6px;
+  margin-top: 13.6px;
+  min-width: 119.68px;
+}
+
+.ouinon-45.ouinon-41 {
+  align-items: flex-start;
+  display: flex;
+  gap: 23px;
+  height: 36.66px;
+  margin-left: 235.6px;
+  margin-top: 9px;
+  min-width: 119.68px;
+}
+
+.ouinon-45.ouinon-42,
+.ouinon-45.ouinon-43 {
+  height: 36.66px;
+  min-width: 109.49px;
+  position: relative;
+}
+

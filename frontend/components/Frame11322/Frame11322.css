@@ -1,0 +1,49 @@
+.frame-113-2 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 6px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  justify-content: center;
+  margin-right: -3.50px;
+  padding: 15px;
+  position: relative;
+  transition: all 0.2s ease-in;
+  width: fit-content;
+}
+
+.frame-113-2:hover {
+  transform: scale(1.1);
+}
+
+.logout {
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame-113-2.frame-113-14,
+.frame-113-2.frame-113-36 {
+  background-color: var(--tropical-rain-forest);
+}
+
+.frame-113-2.frame-113-29 {
+  margin-right: -2.50px;
+}
+
+.frame-113-2.frame-113-34,
+.frame-113-2.frame-113-99 {
+  margin-right: unset;
+}
+
+.frame-113-2.frame-113-70,
+.frame-113-2.frame-113-84 {
+  margin-right: -4.50px;
+}
+

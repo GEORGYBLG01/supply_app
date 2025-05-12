@@ -1,0 +1,36 @@
+.table-text-base-2-1 {
+  background-color: var(--graye);
+  display: flex;
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 272px;
+}
+
+.table-text-base-2-1.table-text-base-4 {
+  height: 23px;
+  left: unset;
+  position: relative;
+  top: unset;
+}
+
+.table-text-base-2-1.table-text-base-5,
+.table-text-base-2-1.table-text-base-7 {
+  background-color: var(--graye);
+  display: flex;
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 64px;
+  width: 272px;
+}
+
+.table-text-base-2-1.table-text-base-6 {
+  background-color: var(--graye);
+  display: flex;
+  height: 23px;
+  position: relative;
+  width: 272px;
+}
+

@@ -1,0 +1,256 @@
+.button-secondary-101 {
+  align-items: center;
+  border-radius: 40px;
+  display: flex;
+  gap: 10px;
+  height: 28px;
+  justify-content: flex-end;
+  padding: 7px 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.label-88 {
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button-secondary-101.button-secondary-52,
+.button-secondary-101.button-secondary-53,
+.button-secondary-101.button-secondary-54,
+.button-secondary-101.button-secondary-57,
+.button-secondary-101.button-secondary-58,
+.button-secondary-101.button-secondary-59,
+.button-secondary-101.button-secondary-63,
+.button-secondary-101.button-secondary-64,
+.button-secondary-101.button-secondary-66,
+.button-secondary-101.button-secondary-67,
+.button-secondary-101.button-secondary-68,
+.button-secondary-101.button-secondary-69,
+.button-secondary-101.button-secondary-71,
+.button-secondary-101.button-secondary-72,
+.button-secondary-101.button-secondary-73,
+.button-secondary-101.button-secondary-74,
+.button-secondary-101.button-secondary-76,
+.button-secondary-101.button-secondary-77,
+.button-secondary-101.button-secondary-79,
+.button-secondary-101.button-secondary-80,
+.button-secondary-101.button-secondary-81,
+.button-secondary-101.button-secondary-85,
+.button-secondary-101.button-secondary-87,
+.button-secondary-101.button-secondary-88,
+.button-secondary-101.button-secondary-89,
+.button-secondary-101.button-secondary-90,
+.button-secondary-101.button-secondary-91,
+.button-secondary-101.button-secondary-92,
+.button-secondary-101.button-secondary-93,
+.button-secondary-101.button-secondary-94,
+.button-secondary-101.button-secondary-95,
+.button-secondary-101.button-secondary-96,
+.button-secondary-101.button-secondary-97,
+.button-secondary-101.button-secondary-99 {
+  align-items: center;
+  background-color: var(--white-lilac);
+  border-radius: 40px;
+  display: flex;
+  gap: 10px;
+  height: 28px;
+  justify-content: flex-end;
+  padding: 7px 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.button-secondary-101.button-secondary-27,
+.button-secondary-101.button-secondary-28,
+.button-secondary-101.button-secondary-29,
+.button-secondary-101.button-secondary-30,
+.button-secondary-101.button-secondary-31,
+.button-secondary-101.button-secondary-32,
+.button-secondary-101.button-secondary-33,
+.button-secondary-101.button-secondary-34,
+.button-secondary-101.button-secondary-35,
+.button-secondary-101.button-secondary-36,
+.button-secondary-101.button-secondary-37,
+.button-secondary-101.button-secondary-38,
+.button-secondary-101.button-secondary-39,
+.button-secondary-101.button-secondary-40,
+.button-secondary-101.button-secondary-42,
+.button-secondary-101.button-secondary-43,
+.button-secondary-101.button-secondary-44,
+.button-secondary-101.button-secondary-45,
+.button-secondary-101.button-secondary-46,
+.button-secondary-101.button-secondary-47,
+.button-secondary-101.button-secondary-48,
+.button-secondary-101.button-secondary-49,
+.button-secondary-101.button-secondary-50,
+.button-secondary-101.button-secondary-51 {
+  background-color: var(--white-lilac);
+}
+
+.button-secondary-101.button-secondary-56 {
+  align-items: center;
+  border-radius: 40px;
+  display: flex;
+  gap: 10px;
+  height: 28px;
+  justify-content: flex-end;
+  margin-left: -5.50px;
+  margin-right: -5.50px;
+  padding: 7px 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.button-secondary-101.button-secondary-60 {
+  align-items: center;
+  border-radius: 40px;
+  display: flex;
+  gap: 10px;
+  height: 28px;
+  justify-content: flex-end;
+  margin-left: -3.00px;
+  margin-right: -3.00px;
+  padding: 7px 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.button-secondary-101.button-secondary-60 .label-88,
+.button-secondary-101.button-secondary-62 .label-88 {
+  margin-bottom: -6.00px;
+  margin-top: -8.00px;
+  white-space: unset;
+}
+
+.button-secondary-101.button-secondary-61 {
+  align-items: center;
+  border-radius: 40px;
+  display: flex;
+  gap: 10px;
+  height: 28px;
+  justify-content: flex-end;
+  margin-left: -16.00px;
+  margin-right: -16.00px;
+  padding: 7px 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.button-secondary-101.button-secondary-65,
+.button-secondary-101.button-secondary-98 {
+  align-items: center;
+  background-color: var(--white-lilac);
+  border-radius: 40px;
+  display: flex;
+  gap: 10px;
+  height: 28px;
+  justify-content: flex-end;
+  margin-left: -2.50px;
+  margin-right: -2.50px;
+  padding: 7px 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.button-secondary-101.button-secondary-75 {
+  align-items: center;
+  border-radius: 40px;
+  display: flex;
+  gap: 10px;
+  height: 28px;
+  justify-content: flex-end;
+  margin-bottom: -0.50px;
+  margin-top: -0.50px;
+  padding: 7px 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.button-secondary-101.button-secondary-78 {
+  align-items: center;
+  border-radius: 40px;
+  display: flex;
+  gap: 10px;
+  height: 28px;
+  justify-content: flex-end;
+  margin-left: -15.00px;
+  margin-right: -15.00px;
+  padding: 7px 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.button-secondary-101.button-secondary-82 {
+  align-items: center;
+  background-color: var(--white-lilac);
+  border-radius: 40px;
+  display: flex;
+  gap: 10px;
+  height: 28px;
+  justify-content: flex-end;
+  margin-bottom: -1.00px;
+  margin-top: -1.00px;
+  padding: 7px 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.button-secondary-101.button-secondary-83 {
+  align-items: center;
+  background-color: var(--white-lilac);
+  border-radius: 40px;
+  display: flex;
+  gap: 10px;
+  height: 28px;
+  justify-content: flex-end;
+  margin-left: -13.00px;
+  margin-right: -13.00px;
+  padding: 7px 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.button-secondary-101.button-secondary-41 {
+  background-color: var(--white-lilac);
+  justify-content: center;
+  margin-bottom: -1.00px;
+  margin-top: -1.00px;
+}
+
+.button-secondary-101.button-secondary-84,
+.button-secondary-101.button-secondary-100 {
+  align-items: center;
+  background-color: var(--white-lilac);
+  border-radius: 40px;
+  display: flex;
+  gap: 10px;
+  height: 28px;
+  justify-content: flex-end;
+  margin-left: -3.00px;
+  margin-right: -3.00px;
+  padding: 7px 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.button-secondary-101.button-secondary-86 {
+  align-items: center;
+  background-color: var(--white-lilac);
+  border-radius: 40px;
+  display: flex;
+  gap: 10px;
+  height: 28px;
+  justify-content: flex-end;
+  margin-bottom: -1.50px;
+  margin-top: -1.50px;
+  padding: 7px 20px;
+  position: relative;
+  width: fit-content;
+}
+

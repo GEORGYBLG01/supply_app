@@ -1,0 +1,40 @@
+.frame-5-1 {
+  align-items: center;
+  background-color: var(--graye);
+  border-radius: 20.64px;
+  display: flex;
+  height: 560px;
+  justify-content: center;
+  overflow: hidden;
+  width: 329px;
+}
+
+.unsplashym-m-sbz0ro {
+  height: 556.54px;
+  margin-top: 3.5px;
+  object-fit: cover;
+  width: 329px;
+}
+
+.frame-5-1.frame-6-1 {
+  cursor: pointer;
+  height: unset;
+  width: 347px;
+}
+
+.frame-5-1.frame-6-1 .unsplashym-m-sbz0ro {
+  height: 543px;
+  margin-top: unset;
+  width: 347px;
+}
+
+.frame-5-1.frame-5-2 {
+  height: unset;
+  margin-left: 7px;
+}
+
+.frame-5-1.frame-5-2 .unsplashym-m-sbz0ro {
+  height: 541px;
+  margin-top: unset;
+}
+

@@ -1,0 +1,60 @@
+.menu-item-default-30 {
+  align-items: center;
+  border-radius: 6px;
+  cursor: pointer;
+  display: flex;
+  gap: 12.95px;
+  height: 37px;
+  justify-content: center;
+  position: relative;
+  width: 138px;
+}
+
+.label-161 {
+  letter-spacing: 0;
+  line-height: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.menu-item-default-30.menu-item-default-32,
+.menu-item-default-30.menu-item-default-34,
+.menu-item-default-30.menu-item-default-35,
+.menu-item-default-30.menu-item-default-36 {
+  height: 35px;
+  width: 102px;
+}
+
+.menu-item-default-30.menu-item-default-33,
+.menu-item-default-30.menu-item-default-27,
+.menu-item-default-30.menu-item-default-27-1,
+.menu-item-default-30.menu-item-default-27-2,
+.menu-item-default-30.menu-item-default-28,
+.menu-item-default-30.menu-item-default-28-1,
+.menu-item-default-30.menu-item-default-28-2,
+.menu-item-default-30.menu-item-default-29,
+.menu-item-default-30.menu-item-default-29-1,
+.menu-item-default-30.menu-item-default-29-2 {
+  border-radius: unset;
+  height: unset;
+  justify-content: unset;
+  width: fit-content;
+}
+
+.menu-item-default-30.menu-item-default-33 .label-161 {
+  margin-top: -1.29px;
+  text-shadow: 0px 4px 4px #00000040;
+}
+
+.menu-item-default-30.menu-item-default-27-1 .label-161,
+.menu-item-default-30.menu-item-default-28-1 .label-161,
+.menu-item-default-30.menu-item-default-29-1 .label-161,
+.menu-item-default-30.menu-item-default-27-2 .label-161,
+.menu-item-default-30.menu-item-default-27 .label-161,
+.menu-item-default-30.menu-item-default-28-2 .label-161,
+.menu-item-default-30.menu-item-default-28 .label-161,
+.menu-item-default-30.menu-item-default-29-2 .label-161,
+.menu-item-default-30.menu-item-default-29 .label-161 {
+  margin-top: -1.29px;
+}
+

@@ -1,0 +1,37 @@
+.menu-item-default-20,
+.menu-item-default-20.menu-item-default-19 {
+  align-items: center;
+  display: flex;
+  gap: 12.95px;
+  position: relative;
+  width: fit-content;
+}
+
+.label-100 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.29px;
+  position: relative;
+  width: fit-content;
+}
+
+.menu-item-default-20.menu-item-default-21 {
+  border-radius: 6px;
+  cursor: pointer;
+  height: 35px;
+  justify-content: center;
+  width: 102px;
+}
+
+.menu-item-default-20.menu-item-default-21 .label-100 {
+  margin-top: unset;
+}
+
+.menu-item-default-20.menu-item-default-22 {
+  cursor: pointer;
+}
+
+.menu-item-default-20.menu-item-default-22 .label-100 {
+  text-shadow: 0px 4px 4px #00000040;
+}
+

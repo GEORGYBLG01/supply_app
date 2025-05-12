@@ -1,0 +1,55 @@
+.frame-113-8,
+.frame-113-9,
+.frame-113-11,
+.frame-113-12,
+.frame-113-13,
+.frame-113-15,
+.frame-113-17,
+.frame-113-18,
+.frame-113-19,
+.frame-113-20 {
+  align-items: center;
+  border-radius: 6px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  justify-content: center;
+  padding: 15px;
+  position: relative;
+  transition: all 0.2s ease-in;
+  width: fit-content;
+}
+
+.frame-113-8:hover,
+.frame-113-9:hover,
+.frame-113-11:hover,
+.frame-113-12:hover,
+.frame-113-13:hover,
+.frame-113-15:hover,
+.frame-113-17:hover,
+.frame-113-18:hover,
+.frame-113-19:hover,
+.frame-113-20:hover {
+  transform: scale(1.1);
+}
+
+.cur-performance,
+.cur-performance-1,
+.cur-performance-2,
+.cur-performance-3,
+.cur-performance-4,
+.cur-performance-5,
+.cur-performance-6,
+.cur-performance-7,
+.cur-performance-8,
+.cur-performance-9 {
+  letter-spacing: 0.20px;
+  line-height: 18px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+

@@ -1,0 +1,58 @@
+.avatars {
+  align-items: flex-start;
+  background-color: var(--tropical-rain-forest);
+  border-radius: 32.5px/30.5px;
+  cursor: pointer;
+  display: flex;
+  height: 61px;
+  left: 1458px;
+  min-width: 65px;
+  position: absolute;
+  top: 140px;
+  transition: all 0.2s ease-in-out;
+}
+
+.avatars:hover {
+  transform: scale(1.1);
+}
+
+.overlap-group-94 {
+  height: 61px;
+  position: relative;
+  width: 65px;
+}
+
+.mask-group {
+  align-items: flex-start;
+  display: flex;
+  gap: 1088px;
+  height: 61px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 65px;
+  position: absolute;
+  top: 0;
+}
+
+.ellipse-83 {
+  align-self: flex-end;
+  height: 21px;
+  width: 49px;
+}
+
+.ellipse-81 {
+  height: 61px;
+  margin-top: -4371px;
+  width: 65px;
+}
+
+.ellipse-82 {
+  background-color: #eeecce;
+  border-radius: 11.7px/10.98px;
+  height: 22px;
+  left: 21px;
+  position: absolute;
+  top: 15px;
+  width: 23px;
+}
+

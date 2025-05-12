@@ -1,0 +1,186 @@
+.quality-6 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 900px;
+  width: 1530px;
+}
+
+.overlap-group-40 {
+  align-items: flex-start;
+  background-color: var(--rum-swizzle);
+  border-radius: 41px 0px 100px 118px;
+  display: flex;
+  gap: 329px;
+  height: 167px;
+  justify-content: flex-end;
+  min-width: 1530px;
+  padding: 10px 59px;
+}
+
+.x1200px-logo_icam_-_2008-1-39 {
+  cursor: pointer;
+  height: 74px;
+  margin-top: 10px;
+  object-fit: cover;
+  width: 144px;
+}
+
+.nav-items-container-18 {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  min-height: 128px;
+  position: relative;
+  width: 926px;
+}
+
+.emploirelation-employeur-employ-9 {
+  align-items: center;
+  display: flex;
+  gap: 92px;
+  margin-left: 8.0px;
+  margin-top: 53px;
+  position: relative;
+  width: fit-content;
+}
+
+.emploi-relation-employeur-employ-1-7 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  position: relative;
+  width: fit-content;
+}
+
+.is-the-measuring-equ {
+  background-color: transparent;
+  border: 0;
+  color: var(--white-lilac);
+  font-weight: 400;
+  height: 78px;
+  line-height: normal;
+  min-width: 420px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.is-the-measuring-equ::placeholder {
+  color: #f7f9fb99;
+}
+
+.where-such-standards {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 69px;
+  line-height: normal;
+  min-width: 419px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.where-such-standards::placeholder,
+.is-the-measuring-equ-1::placeholder,
+.is-the-measuring-equ-2::placeholder,
+.are-the-quality-obje::placeholder,
+.are-the-quality-objectives-measurable::placeholder,
+.do-the-quality-objec::placeholder,
+.are-the-quality-obje-1::placeholder,
+.do-you-react-to-non-compliance::placeholder,
+.do-you-take-action-t::placeholder,
+.do-you-take-responsi::placeholder {
+  color: #ffffff99;
+}
+
+.is-the-measuring-equ-1 {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 46px;
+  line-height: normal;
+  min-width: 402px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.is-the-measuring-equ-2 {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 63px;
+  line-height: normal;
+  min-width: 402px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.emploi-relation-employeur-employ-5 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  position: relative;
+  width: fit-content;
+}
+
+.are-the-quality-obje {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 51px;
+  line-height: normal;
+  min-width: 402px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.are-the-quality-objectives-measurable,
+.do-the-quality-objec,
+.are-the-quality-obje-1,
+.do-you-react-to-non-compliance,
+.do-you-take-action-t,
+.do-you-take-responsi {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 26px;
+  line-height: normal;
+  min-width: 404px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.flex-row-87 {
+  align-items: flex-start;
+  display: flex;
+  gap: 435px;
+  height: 60px;
+  margin-left: 432.0px;
+  margin-top: 46px;
+  min-width: 642px;
+  position: relative;
+}
+

@@ -1,0 +1,59 @@
+.menu-item-default {
+  align-items: center;
+  display: flex;
+  gap: 12.95px;
+  position: relative;
+  width: fit-content;
+}
+
+.label-4 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.29px;
+  position: relative;
+  width: fit-content;
+}
+
+.menu-item-default.menu-item-default-2 {
+  margin-left: 32.0px;
+}
+
+.menu-item-default.menu-item-default-3 {
+  left: 96px;
+  position: absolute;
+  top: 84px;
+}
+
+.menu-item-default.menu-item-default-4,
+.menu-item-default.menu-item-default-9 {
+  left: 183px;
+  position: absolute;
+  top: 17px;
+}
+
+.menu-item-default.menu-item-default-5,
+.menu-item-default.menu-item-default-10 {
+  left: 2px;
+  position: absolute;
+  top: 14px;
+}
+
+.menu-item-default.menu-item-default-6,
+.menu-item-default.menu-item-default-12 {
+  margin-left: 1px;
+}
+
+.menu-item-default.menu-item-default-7 {
+  margin-top: 21px;
+}
+
+.menu-item-default.menu-item-default-8 {
+  justify-content: center;
+  margin-left: 32.0px;
+}
+
+.menu-item-default.menu-item-default-11 {
+  align-self: flex-start;
+  margin-left: 131px;
+}
+

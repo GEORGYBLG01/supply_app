@@ -1,0 +1,17 @@
+.nav-items-4-8 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  gap: 60px;
+  height: 48px;
+  justify-content: center;
+  margin-right: 15px;
+  position: relative;
+  transition: all 0.2s ease-in;
+  width: 1355px;
+}
+
+.nav-items-4-8:hover {
+  transform: translate(0, -5px);
+}
+

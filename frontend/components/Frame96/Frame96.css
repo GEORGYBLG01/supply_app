@@ -1,0 +1,79 @@
+.frame-96-4 {
+  align-items: flex-start;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  height: 605px;
+  justify-content: center;
+  left: 65px;
+  overflow: hidden;
+  position: absolute;
+  top: 234px;
+  width: 651px;
+}
+
+.vos-employs-sont-ils-1 {
+  background-color: transparent;
+  border: 0;
+  color: var(--inter);
+  font-weight: 400;
+  height: 22px;
+  line-height: normal;
+  min-width: 568px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+}
+
+.vos-employs-sont-ils-1::placeholder,
+.avez-vous-un-managem-1::placeholder,
+.sez-vous-1::placeholder,
+.est-ce-que-les-journ-1::placeholder {
+  color: #9f9f9f99;
+}
+
+.avez-vous-un-managem-1 {
+  background-color: transparent;
+  border: 0;
+  color: var(--inter);
+  font-weight: 400;
+  height: 21px;
+  line-height: normal;
+  min-width: 563px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+}
+
+.sez-vous-1 {
+  background-color: transparent;
+  border: 0;
+  color: var(--inter);
+  font-weight: 400;
+  height: 22px;
+  line-height: normal;
+  min-width: 563px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+}
+
+.est-ce-que-les-journ-1 {
+  background-color: transparent;
+  border: 0;
+  color: var(--inter);
+  font-weight: 400;
+  height: 21px;
+  line-height: normal;
+  min-width: 568px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+}
+
+.frame-96-4.frame-94-2 {
+  left: 59px;
+  top: 244px;
+}
+

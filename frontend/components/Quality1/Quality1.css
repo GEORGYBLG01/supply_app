@@ -1,0 +1,238 @@
+.quality-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 900px;
+  width: 1530px;
+}
+
+.overlap-group-32 {
+  height: 251px;
+  position: relative;
+  width: 1530px;
+}
+
+.rectangle-3-14 {
+  background-color: var(--rum-swizzle);
+  border-radius: 41px 0px 100px 118px;
+  height: 180px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1530px;
+}
+
+.x1200px-logo_icam_-_2008-1-32 {
+  cursor: pointer;
+  height: 74px;
+  left: 72px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 144px;
+}
+
+.please-answer-the-following-questions-11 {
+  height: 97px;
+  left: 467px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 154px;
+  width: 577px;
+}
+
+.emploirelation-employeur-employ-5 {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  gap: 88px;
+  justify-content: center;
+  margin-left: 40.0px;
+  margin-top: 78px;
+  position: relative;
+  width: 1426px;
+}
+
+.emploi-relation-employeur-employ-1-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  position: relative;
+  width: 331px;
+}
+
+.do-you-do-reviews {
+  background-color: transparent;
+  border: 0;
+  color: var(--white-lilac);
+  font-weight: 400;
+  height: 35px;
+  line-height: normal;
+  min-width: 284px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.do-you-do-reviews::placeholder,
+.do-you-have-a-review::placeholder,
+.do-you-have-a-review-1::placeholder {
+  color: #f7f9fb99;
+}
+
+.in-paper-format {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 32px;
+  line-height: normal;
+  min-width: 311px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.in-paper-format::placeholder,
+.in-digital-format::placeholder,
+.in-paper-format-1::placeholder,
+.in-digital-format-1::placeholder,
+.in-paper-format-2::placeholder,
+.in-digital-format-2::placeholder {
+  color: #ffffff99;
+}
+
+.in-digital-format {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 24px;
+  line-height: normal;
+  min-width: 288px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.emploi-relation-employeur-employ-3-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  position: relative;
+  width: fit-content;
+}
+
+.do-you-have-a-review {
+  background-color: transparent;
+  border: 0;
+  color: var(--white-lilac);
+  font-weight: 400;
+  height: 77px;
+  line-height: normal;
+  min-width: 367px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.in-paper-format-1 {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 22px;
+  line-height: normal;
+  min-width: 351px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.in-digital-format-1 {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 27px;
+  line-height: normal;
+  min-width: 331px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.emploi-relation-employeur-employ-2-4 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  position: relative;
+  width: 514px;
+}
+
+.do-you-have-a-review-1 {
+  background-color: transparent;
+  border: 0;
+  color: var(--white-lilac);
+  font-weight: 400;
+  height: 42px;
+  line-height: normal;
+  min-width: 505px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.in-paper-format-2 {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 21px;
+  line-height: normal;
+  min-width: 123px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.in-digital-format-2 {
+  background-color: transparent;
+  border: 0;
+  color: var(--graye);
+  font-weight: 400;
+  height: 21px;
+  line-height: normal;
+  min-width: 414px;
+  opacity: 0.5;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.flex-row-79 {
+  align-items: flex-start;
+  display: flex;
+  gap: 559px;
+  height: 89px;
+  margin-right: 107px;
+  margin-top: 112px;
+  min-width: 766px;
+  position: relative;
+}
+
